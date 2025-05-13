@@ -1,0 +1,58 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+# Reddit Scraper Project Guide
+
+## Project Overview
+The Reddit scraper is a Python application designed to collect and analyze Reddit posts, with a focus on tracking removed content. The main script is [reddit_scraper.py](mdc:reddit_scraper.py).
+
+## Key Components
+
+### RedditScraper Class
+The main class that handles all scraping operations. Key methods include:
+
+- `__init__`: Initializes the scraper with Reddit API credentials
+- `collect_post_data`: Gathers comprehensive data about each post
+- `stream_posts`: Real-time monitoring of new posts
+- `check_for_removals`: Tracks post removal status
+- `save_data`: Saves collected data and generates statistics
+
+### Data Collection
+The scraper collects the following data for each post:
+- Basic post information (title, text, URL)
+- Author and timestamp information
+- Engagement metrics (score, comments)
+- Removal status and reasons
+- Media type and content
+- Subreddit rules and context
+
+### Data Storage
+Data is saved in two formats:
+1. Main dataset: `data/reddit_posts_TIMESTAMP.json`
+2. Statistics: `data/dataset_stats_TIMESTAMP.json`
+
+## Environment Setup
+Required environment variables:
+- `CLIENT_ID`: Reddit API client ID
+- `CLIENT_SECRET`: Reddit API client secret
+
+## Usage
+Run the script with:
+```bash
+python reddit_scraper.py
+```
+
+The script will:
+1. Monitor specified subreddits in real-time
+2. Track post removal status
+3. Save data periodically
+4. Generate comprehensive statistics
+
+## Error Handling
+- Rate limiting implemented to respect Reddit API limits
+- Comprehensive logging to `reddit_scraper.log`
+- Automatic retry on API errors
+- Graceful handling of missing or invalid data
+
