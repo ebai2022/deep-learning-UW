@@ -1,0 +1,86 @@
+{
+  "total_posts": 1094,
+  "removed_posts": 343,
+  "removal_rate": 31.352833638025597,
+  "subreddit_distribution": {
+    "AskReddit": 512,
+    "relationship_advice": 73,
+    "personalfinance": 43,
+    "Advice": 218,
+    "technology": 25,
+    "legaladvice": 91,
+    "AskHistorians": 15,
+    "politics": 72,
+    "science": 7,
+    "worldnews": 28,
+    "programming": 3,
+    "news": 7
+  },
+  "media_type_distribution": {
+    "text": 952,
+    "link": 142
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 4,
+      "max": 299,
+      "avg": 68.20566727605119
+    },
+    "text": {
+      "min": 0,
+      "max": 8192,
+      "avg": 560.5831809872029
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.9990859232175503
+    },
+    "comments": {
+      "min": 0,
+      "max": 3,
+      "avg": 0.18738574040219377
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 153,
+      "Advice": 82,
+      "relationship_advice": 23,
+      "legaladvice": 29,
+      "worldnews": 15,
+      "news": 4,
+      "politics": 14,
+      "AskHistorians": 3,
+      "science": 3,
+      "personalfinance": 10,
+      "technology": 7
+    },
+    "by_media_type": {
+      "text": 300,
+      "link": 43
+    },
+    "by_url_count": {
+      "0": 341,
+      "6": 1,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 4,
+    "total_urls": 9,
+    "urls_in_removed_posts": 7,
+    "url_domains": {
+      "en.wikipedia.org": 1,
+      "www.facebook.com": 1,
+      "www.vplaw.com": 4,
+      "www.nj.gov": 1,
+      "www.dmv.org": 1,
+      "www.tiktok.com": 1
+    }
+  }
+}

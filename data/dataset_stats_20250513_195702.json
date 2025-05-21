@@ -1,0 +1,56 @@
+{
+  "total_posts": 2,
+  "removed_posts": 2,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "Advice": 1,
+    "personalfinance": 1
+  },
+  "media_type_distribution": {
+    "text": 2
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 24,
+      "max": 54,
+      "avg": 39.0
+    },
+    "text": {
+      "min": 624,
+      "max": 1310,
+      "avg": 967.0
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 0,
+      "avg": 0.0
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 1,
+      "personalfinance": 1
+    },
+    "by_media_type": {
+      "text": 2
+    },
+    "by_url_count": {
+      "0": 2
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 0,
+    "total_urls": 0,
+    "urls_in_removed_posts": 0,
+    "url_domains": {}
+  }
+}

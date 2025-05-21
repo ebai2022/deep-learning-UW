@@ -1,0 +1,84 @@
+{
+  "total_posts": 674,
+  "removed_posts": 199,
+  "removal_rate": 29.52522255192878,
+  "subreddit_distribution": {
+    "personalfinance": 20,
+    "legaladvice": 68,
+    "AskReddit": 329,
+    "AskHistorians": 15,
+    "technology": 10,
+    "worldnews": 9,
+    "politics": 24,
+    "Advice": 137,
+    "relationship_advice": 48,
+    "news": 5,
+    "programming": 4,
+    "science": 4,
+    "crypto": 1
+  },
+  "media_type_distribution": {
+    "text": 618,
+    "link": 55,
+    "video": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 4,
+      "max": 292,
+      "avg": 65.52077151335311
+    },
+    "text": {
+      "min": 0,
+      "max": 6454,
+      "avg": 514.8649851632048
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.9851632047477745
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.1513353115727003
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 37,
+      "relationship_advice": 17,
+      "AskReddit": 100,
+      "personalfinance": 6,
+      "legaladvice": 14,
+      "worldnews": 5,
+      "politics": 7,
+      "technology": 3,
+      "AskHistorians": 5,
+      "news": 4,
+      "crypto": 1
+    },
+    "by_media_type": {
+      "text": 180,
+      "link": 19
+    },
+    "by_url_count": {
+      "0": 198,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 2,
+    "total_urls": 3,
+    "urls_in_removed_posts": 1,
+    "url_domains": {
+      "ASP.NET)": 1,
+      "python.plainenglish.io": 1,
+      "www.youtube.com": 1
+    }
+  }
+}

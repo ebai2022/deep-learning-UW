@@ -1,0 +1,96 @@
+{
+  "total_posts": 832,
+  "removed_posts": 219,
+  "removal_rate": 26.322115384615387,
+  "subreddit_distribution": {
+    "Advice": 135,
+    "programming": 7,
+    "AskReddit": 385,
+    "politics": 67,
+    "technology": 16,
+    "AskHistorians": 19,
+    "relationship_advice": 61,
+    "personalfinance": 33,
+    "legaladvice": 52,
+    "worldnews": 30,
+    "science": 9,
+    "news": 12,
+    "askscience": 6
+  },
+  "media_type_distribution": {
+    "text": 691,
+    "link": 140,
+    "video": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 9,
+      "max": 299,
+      "avg": 71.97716346153847
+    },
+    "text": {
+      "min": 0,
+      "max": 12322,
+      "avg": 548.9675480769231
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.9987980769230769
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.23557692307692307
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 110,
+      "Advice": 37,
+      "relationship_advice": 15,
+      "legaladvice": 15,
+      "AskHistorians": 5,
+      "worldnews": 15,
+      "personalfinance": 8,
+      "technology": 3,
+      "politics": 5,
+      "news": 3,
+      "programming": 1,
+      "science": 2
+    },
+    "by_media_type": {
+      "text": 190,
+      "link": 28,
+      "video": 1
+    },
+    "by_url_count": {
+      "0": 217,
+      "3": 1,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 7,
+    "total_urls": 12,
+    "urls_in_removed_posts": 4,
+    "url_domains": {
+      "github.com": 1,
+      "www.reddit.com": 1,
+      "leg.colorado.gov": 1,
+      "i.imgur.com": 1,
+      "denvergov.org": 1,
+      "www.aclu-co.org": 1,
+      "www.gov.uk": 1,
+      "www.secondstate.io": 1,
+      "history.nih.gov": 1,
+      "blog.mommylabornurse.com": 1,
+      "geneticliteracyproject.org": 1,
+      "paycheckcalc.com": 1
+    }
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "total_posts": 45,
+  "removed_posts": 45,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "AskReddit": 31,
+    "Advice": 7,
+    "relationship_advice": 3,
+    "programming": 2,
+    "personalfinance": 1,
+    "worldnews": 1
+  },
+  "media_type_distribution": {
+    "text": 42,
+    "link": 3
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 24,
+      "max": 181,
+      "avg": 66.5111111111111
+    },
+    "text": {
+      "min": 0,
+      "max": 7799,
+      "avg": 592.5111111111111
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 1,
+      "avg": 0.9777777777777777
+    },
+    "comments": {
+      "min": 0,
+      "max": 1,
+      "avg": 0.044444444444444446
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 31,
+      "Advice": 7,
+      "relationship_advice": 3,
+      "programming": 2,
+      "personalfinance": 1,
+      "worldnews": 1
+    },
+    "by_media_type": {
+      "text": 42,
+      "link": 3
+    },
+    "by_url_count": {
+      "0": 45
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 0,
+    "total_urls": 0,
+    "urls_in_removed_posts": 0,
+    "url_domains": {}
+  }
+}

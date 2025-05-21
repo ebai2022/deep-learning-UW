@@ -1,0 +1,89 @@
+{
+  "total_posts": 1083,
+  "removed_posts": 315,
+  "removal_rate": 29.085872576177284,
+  "subreddit_distribution": {
+    "AskReddit": 542,
+    "technology": 24,
+    "relationship_advice": 78,
+    "politics": 70,
+    "legaladvice": 78,
+    "Advice": 159,
+    "AskHistorians": 27,
+    "worldnews": 36,
+    "science": 9,
+    "news": 9,
+    "programming": 14,
+    "personalfinance": 37
+  },
+  "media_type_distribution": {
+    "text": 921,
+    "link": 162
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 2,
+      "max": 286,
+      "avg": 70.07756232686981
+    },
+    "text": {
+      "min": 0,
+      "max": 18310,
+      "avg": 520.5650969529086
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 3,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 3,
+      "avg": 0.20867959372114497
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "legaladvice": 22,
+      "Advice": 51,
+      "AskReddit": 169,
+      "relationship_advice": 23,
+      "personalfinance": 9,
+      "programming": 2,
+      "worldnews": 10,
+      "science": 4,
+      "AskHistorians": 11,
+      "politics": 8,
+      "news": 3,
+      "technology": 3
+    },
+    "by_media_type": {
+      "text": 285,
+      "link": 30
+    },
+    "by_url_count": {
+      "0": 309,
+      "1": 5,
+      "2": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 8,
+    "total_urls": 9,
+    "urls_in_removed_posts": 7,
+    "url_domains": {
+      "en.wikipedia.org": 1,
+      "medium.com": 1,
+      "spiritualpilgrim.net": 1,
+      "www.museunacional.cat": 2,
+      "www.experian.com": 1,
+      "old.reddit.com": 1,
+      "x.com": 1,
+      "youtu.be": 1
+    }
+  }
+}

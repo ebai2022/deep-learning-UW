@@ -1,0 +1,73 @@
+{
+  "total_posts": 494,
+  "removed_posts": 129,
+  "removal_rate": 26.113360323886642,
+  "subreddit_distribution": {
+    "Advice": 99,
+    "AskReddit": 275,
+    "politics": 9,
+    "legaladvice": 28,
+    "relationship_advice": 42,
+    "worldnews": 16,
+    "personalfinance": 9,
+    "AskHistorians": 8,
+    "technology": 5,
+    "programming": 3
+  },
+  "media_type_distribution": {
+    "text": 461,
+    "link": 33
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 1,
+      "max": 279,
+      "avg": 66.2753036437247
+    },
+    "text": {
+      "min": 0,
+      "max": 9899,
+      "avg": 542.5546558704453
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.0020242914979758
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.1417004048582996
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 17,
+      "AskReddit": 84,
+      "relationship_advice": 13,
+      "personalfinance": 4,
+      "worldnews": 7,
+      "legaladvice": 3,
+      "programming": 1
+    },
+    "by_media_type": {
+      "text": 121,
+      "link": 8
+    },
+    "by_url_count": {
+      "0": 129
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 1,
+    "total_urls": 1,
+    "urls_in_removed_posts": 0,
+    "url_domains": {
+      "www.reddit.com": 1
+    }
+  }
+}

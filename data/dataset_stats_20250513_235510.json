@@ -1,0 +1,69 @@
+{
+  "total_posts": 15,
+  "removed_posts": 15,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "worldnews": 5,
+    "AskHistorians": 1,
+    "programming": 1,
+    "AskReddit": 5,
+    "relationship_advice": 2,
+    "technology": 1
+  },
+  "media_type_distribution": {
+    "link": 7,
+    "text": 8
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 57,
+      "max": 198,
+      "avg": 90.0
+    },
+    "text": {
+      "min": 0,
+      "max": 2098,
+      "avg": 298.4
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 1,
+      "avg": 0.2
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "worldnews": 5,
+      "AskHistorians": 1,
+      "programming": 1,
+      "AskReddit": 5,
+      "relationship_advice": 2,
+      "technology": 1
+    },
+    "by_media_type": {
+      "link": 7,
+      "text": 8
+    },
+    "by_url_count": {
+      "0": 14,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 1,
+    "total_urls": 1,
+    "urls_in_removed_posts": 1,
+    "url_domains": {
+      "tccicomputercoaching.com": 1
+    }
+  }
+}

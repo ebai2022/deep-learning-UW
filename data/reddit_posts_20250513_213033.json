@@ -1,0 +1,979 @@
+[
+  {
+    "id": "1km4t50",
+    "title": "Rideshare drivers, what led to sexual encounters with riders?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/AskReddit/comments/1km4t50/rideshare_drivers_what_led_to_sexual_encounters/",
+    "author": "PUBGM_MightyFine",
+    "created_utc": 1747191193.0,
+    "subreddit": "AskReddit",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T19:53:27.902699",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 61,
+    "is_self": true,
+    "is_video": false,
+    "over_18": true,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - Questions must be clear and direct and may not use the body textbox",
+        "description": "* All questions must be clear, written in English, and conclude with a question mark\n* All context in the title must be ***necessary to understanding the question***; do not give “example answers” in the post title (i.e. “Other than your mom, \\_\\_\\_\\_\\_\\_?”)\n* No text in the text box - any additional info from you must be added as a comment to your post\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_1-)",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Rule 1 - Questions must be clear and direct and may not use the body textbox"
+      },
+      {
+        "short_name": "Rule 2 - No personal or professional advice requests",
+        "description": "* Askreddit is NOT your personal or professional advice platform\n\n* Do not makes posts asking for professional advice - medical, legal, financial, or otherwise\n\n* All posts asking for advice must be generic and not specific to your situation alone\n\n* Do not use first person pronouns\n\n* No crowdsourcing naming or purchasing decisions\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_2-)",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Rule 2 - No personal or professional advice requests"
+      },
+      {
+        "short_name": "Rule 3 - Open ended questions only",
+        "description": "* Post must be an open-ended discussion question\n\n* Title must not be phrased to allow a simple yes/no answer\n\n* No questions that have definite answers\n\n* Question must not be a poll or survey\n\n* No “Either/Or” type questions\n\n* Do not ask for NSFW links\n\n* Do not specify a length (eg \"in three words...\") or make your post into a game\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_3-)",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Rule 3 - Open ended questions only"
+      },
+      {
+        "short_name": "Rule 4 - No personal info",
+        "description": "* Do not post or seek any **real or fake** personal information (examples include: full names, phone numbers, email addresses, or social media accounts)\n\n* Only link another user's comment when it is relevant and **never** when it is to launch a personal attack or encourage others to do so\n\n* Do not ask questions designed to target specific usernames or links to social media\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_4-)",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Rule 4 - No personal info"
+      },
+      {
+        "short_name": "Rule 5 - No loaded questions",
+        "description": "- Do not include an opinion, bias, or lead respondents towards expressing a specific opinion in your post title\n\n- Do not use this subreddit to promote a specific agenda or to gain positive or negative publicity for an entity or person\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_5-)",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Rule 5 - No loaded questions"
+      },
+      {
+        "short_name": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies",
+        "description": "* [Serious] posts are off-limits for joke replies and irrelevant or off-topic comments and discussion\n\n* If the OP asks for answers from a specific group in a [Serious] post, top level comments must be made from members of that group\n\n* Posts that do not receive relevant answers within an hour will be removed\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_6-)",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies"
+      },
+      {
+        "short_name": "Rule 7 - No begging for goods or services, or Reddit rewards",
+        "description": "* Do not ask for Reddit rewards, money, goods, services,or favors\n\n* Do not form a brigade to draw positive or negative attention to posts or comments in AskReddit, even from other subreddits\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_7-)",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "Rule 7 - No begging for goods or services, or Reddit rewards"
+      },
+      {
+        "short_name": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner",
+        "description": "* Do not make personal attacks, insult, or demean a specific group or person\n\n* Do not use slurs without relevant context and quotes\n\n* No blatant statements of bigotry\n\n* No posts that 'bait' users into breaking other rules\n\n* Zero tolerance for posts/comments that sexualize minors\n\n* Zero tolerance for posts/comments that encourage suicide\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_8-)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner"
+      },
+      {
+        "short_name": "Rule 9 -  No image only replies or large ascii art",
+        "description": "* Comment replies must consist of more than just an image or link\n\n* No ASCII/emoji images over one line\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_9-)",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Rule 9 -  No image only replies or large ascii art"
+      },
+      {
+        "short_name": "Rule 10 - Harmful Misinformation",
+        "description": "* Do not downplay the effects of a medical crisis\n* Do not undermine the efficacy of vaccines where there is widespread agreement among the medical and scientific communities\n* Do not encourage illegal activity\n* Do not encourage delayed medical treatment\n\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-harmful_misinformation-)",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Rule 10 - Harmful Misinformation"
+      },
+      {
+        "short_name": "Rule 11 - No spam, machine generated content or karma farming",
+        "description": "* Do not post spam\n* Do not edit comments to mislead and/or advertise\n* Do not farm karma or shotgun comments\n* Bots are not allowed in r/AskReddit\n\n[The full rule can be viewed here](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_11-)",
+        "kind": "all",
+        "priority": 10,
+        "violation_reason": "Rule 11 - No spam, machine generated content or karma farming"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:19:48.140529",
+    "hours_tracked": 1.421618755526013
+  },
+  {
+    "id": "1km5c7l",
+    "title": "My28F bf39Ms female friend bothers me so much.",
+    "text": "My boyfriend has this female friend hes known for six years. They originally met on Tinder and hooked up I think he said they had sex 2 or 3 times around 2019 and I guess their relationship eventually turned into a friendship. She really bothers me. I hate that my boyfriends best friend is a woman he met on a dating app and slept with. I also hate that he talks to her about us. Like, when we fight, he obviously tells her, and it just makes me feel awful that she knows all these personal things about our relationship. But when I ask him not to talk to her about us, he gets upset and says, Shes just a friend. I dont understand why youre so bothered by something that happened six years ago. And what I talk about with her is none of your business. So now it feels like my only options are to just tolerate it or break up with him. Any advice for me?",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/relationship_advice/comments/1km5c7l/my28f_bf39ms_female_friend_bothers_me_so_much/",
+    "author": "ComedianDefiant8419",
+    "created_utc": 1747192892.0,
+    "subreddit": "relationship_advice",
+    "score": 1,
+    "num_comments": 1,
+    "timestamp_collected": "2025-05-13T20:21:50.638411",
+    "comments": [],
+    "post_length": 873,
+    "title_length": 51,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Posts must contain a title, description, TLDR, & basic info like ages, genders",
+        "description": "Posts MUST include: \n\n* A title that summarizes the problem or question. This is where the ages/genders should be placed.\n* A description of your situation.\n* A question or a request for what advice you want.\n* Length of Relationship\n* A brief [**tl;dr**](http://en.wiktionary.org/wiki/TLDR) if your post is long.\n\nExamples of ages/genders in the title:\n\n- I [24M] have an issue with my aunt, [45F]\n\n- My partner [19NB] told me [21MtF]\n\n- I [45F] love my husband [51M]",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Post does not feature detailed information, or lacks a descriptive title, tldr, or similar"
+      },
+      {
+        "short_name": "All posts must request specific advice on a specific, real situation between two or more people",
+        "description": "We do not allow vague requests for advice such as:\n\n- What would you do?\n\n- What should I do?\n\n- Any advice would be appreciated\n\nLikewise, we do not allow:\n\n- Vents/rants\n\n- Posts about past or potential relationships\n\n- Posts giving advice\n\nLastly, this subreddit relies on honesty. If your content is in any capacity dishonest (examples include: chatGPT posts, creative writing, profile inconsistencies) it will be removed and you will be banned.",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Post does not request advice on a real situation between two or more people."
+      },
+      {
+        "short_name": "No questions that can be answered with yes or no (aka moral judgment)",
+        "description": "Your post is a yes or no question (aka moral judgement) if your question starts with or contains any of the following:\n\n- Is it...?\n\n- Asking if you or the subject of the post is right or wrong.\n\n- Am I....?\n\n- Any variation of “Am I The Asshole?”, including AITA\n\n- Does/Have anybody else...?\n\n- Should I…?\n\n- Would you....?\n\n- Is this.....?\n\n- Can I...?\n\n\n#If the question in your post can be answered with a yes or no question, it is moral judgement and will be removed.",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Yes or no/ Moral Judgement Request"
+      },
+      {
+        "short_name": "Things This Sub Can't Give Advice On:",
+        "description": "Rants, unsolicited advice, letters to an ex, \"body counts\" or number of sexual partners, mental health issues, medical health issues, legal problems, financial problems, any situations involving minors (under 18 regardless of local laws), and any situations involving abuse (violence, sexual, emotional etc). All of these will be removed and locked.",
+        "kind": "link",
+        "priority": 3,
+        "violation_reason": "Not Applicable to the Sub"
+      },
+      {
+        "short_name": "Only One Update Is Allowed",
+        "description": "You can submit **one** update post at any time after 48 hours has past from the original post. \n\nAdditional advice may be requested in new posts but they may not be continuations of the orignal one. E.g. no titles saying \"Update 2\" or \"Update 4\". We're not a blog. Please post further updates on your own profile.",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Too many updates"
+      },
+      {
+        "short_name": "Surveys, Academic Research, Information Requests, and Media Questions Should Be Sent to Modmail",
+        "description": "Surveys, information requests, and journalistic or academic research questions must be sent to [modmail](https://www.reddit.com/message/compose?to=/r/relationship_advice) prior to posting.  If you are doing academic research, message us with your IRB number, a point of contact for us to verify your pending research, and the details of your research for consideration. Press Requests must be routed through modmail, via u/eganist , before communicating with users directly.",
+        "kind": "link",
+        "priority": 5,
+        "violation_reason": "Surveys, Academic Research, Information Requests, and Media Questions Should Be Sent to Modmail"
+      },
+      {
+        "short_name": "All comments must be on topic, and focus on the OP, and be made in good faith",
+        "description": "Derailing arguments, jokes fighting, and moral whataboutism is not allowed. Give good, ethical advice. Remember, the goal is to help your fellow human.",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "derailing, fighting, whataboutism, or not in good faith"
+      },
+      {
+        "short_name": "Keep It Civil",
+        "description": "No insults, no threats of violence, no encouraging violence, no telling an OP to go to punch someone else, no threats, no harassment, no trolling, no advertising other subs, no spam. You will be banned. \n\nAll bans in this sub are permanent. You don't get a free pass.\n\nFor more information, please see our [rules](https://www.reddit.com/r/relationship_advice/wiki/rules#wiki_rule_8)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Insults, violence, harassment, trolling, spam"
+      },
+      {
+        "short_name": "No referencing hateful or abusive subs/individuals/content",
+        "description": "**No referencing hateful or abusive subs/individuals and content**. No advocating for or referencing content that is conspiratorial in nature, transphobic, anti-women/men, anti-LBGT+, that promote anti-vaxx or anti-science content, or contains harmful rhetoric against groups of people. Think includes linking to subs that feature this. You will be banned. You don't get a free pass. \n\n[Further information](https://www.reddit.com/r/relationship_advice/wiki/rules#wiki_rule_9)",
+        "kind": "all",
+        "priority": 8,
+        "violation_reason": "references hateful/abusive content/subs/individuals"
+      },
+      {
+        "short_name": "Do not directly message users",
+        "description": "If you wish to opine on the matter at hand, you are to comment on the post. Users found to be privately messaging other users to circumvent this directive will be met with a permanent, irrevocable ban. \n\n**If a user has sent you harassing messages, please upload your screenshot to Imgur.com, and notify the mods via modmail. We will action the user accordingly.**",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Do not directly message users"
+      },
+      {
+        "short_name": "No situations involving people under 18",
+        "description": "Your content has been removed because it involves a situation with someone under the age of 18. Please note that changing your ages to get around this rule will result in an immediate ban.\n\nPlease consider posting this to our sister subreddit, r/teenrelationships",
+        "kind": "link",
+        "priority": 10,
+        "violation_reason": "No situations involving people under 18"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:23:32.451381",
+    "hours_tracked": 0.9486362013551924
+  },
+  {
+    "id": "1km5oy0",
+    "title": "How do you ask girlfriend for mfm threesome?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/AskReddit/comments/1km5oy0/how_do_you_ask_girlfriend_for_mfm_threesome/",
+    "author": "Hrny_Couple23",
+    "created_utc": 1747194062.0,
+    "subreddit": "AskReddit",
+    "score": 0,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T20:41:21.790472",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 44,
+    "is_self": true,
+    "is_video": false,
+    "over_18": true,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 0.5,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - Questions must be clear and direct and may not use the body textbox",
+        "description": "* All questions must be clear, written in English, and conclude with a question mark\n* All context in the title must be ***necessary to understanding the question***; do not give “example answers” in the post title (i.e. “Other than your mom, \\_\\_\\_\\_\\_\\_?”)\n* No text in the text box - any additional info from you must be added as a comment to your post\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_1-)",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Rule 1 - Questions must be clear and direct and may not use the body textbox"
+      },
+      {
+        "short_name": "Rule 2 - No personal or professional advice requests",
+        "description": "* Askreddit is NOT your personal or professional advice platform\n\n* Do not makes posts asking for professional advice - medical, legal, financial, or otherwise\n\n* All posts asking for advice must be generic and not specific to your situation alone\n\n* Do not use first person pronouns\n\n* No crowdsourcing naming or purchasing decisions\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_2-)",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Rule 2 - No personal or professional advice requests"
+      },
+      {
+        "short_name": "Rule 3 - Open ended questions only",
+        "description": "* Post must be an open-ended discussion question\n\n* Title must not be phrased to allow a simple yes/no answer\n\n* No questions that have definite answers\n\n* Question must not be a poll or survey\n\n* No “Either/Or” type questions\n\n* Do not ask for NSFW links\n\n* Do not specify a length (eg \"in three words...\") or make your post into a game\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_3-)",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Rule 3 - Open ended questions only"
+      },
+      {
+        "short_name": "Rule 4 - No personal info",
+        "description": "* Do not post or seek any **real or fake** personal information (examples include: full names, phone numbers, email addresses, or social media accounts)\n\n* Only link another user's comment when it is relevant and **never** when it is to launch a personal attack or encourage others to do so\n\n* Do not ask questions designed to target specific usernames or links to social media\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_4-)",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Rule 4 - No personal info"
+      },
+      {
+        "short_name": "Rule 5 - No loaded questions",
+        "description": "- Do not include an opinion, bias, or lead respondents towards expressing a specific opinion in your post title\n\n- Do not use this subreddit to promote a specific agenda or to gain positive or negative publicity for an entity or person\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_5-)",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Rule 5 - No loaded questions"
+      },
+      {
+        "short_name": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies",
+        "description": "* [Serious] posts are off-limits for joke replies and irrelevant or off-topic comments and discussion\n\n* If the OP asks for answers from a specific group in a [Serious] post, top level comments must be made from members of that group\n\n* Posts that do not receive relevant answers within an hour will be removed\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_6-)",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies"
+      },
+      {
+        "short_name": "Rule 7 - No begging for goods or services, or Reddit rewards",
+        "description": "* Do not ask for Reddit rewards, money, goods, services,or favors\n\n* Do not form a brigade to draw positive or negative attention to posts or comments in AskReddit, even from other subreddits\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_7-)",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "Rule 7 - No begging for goods or services, or Reddit rewards"
+      },
+      {
+        "short_name": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner",
+        "description": "* Do not make personal attacks, insult, or demean a specific group or person\n\n* Do not use slurs without relevant context and quotes\n\n* No blatant statements of bigotry\n\n* No posts that 'bait' users into breaking other rules\n\n* Zero tolerance for posts/comments that sexualize minors\n\n* Zero tolerance for posts/comments that encourage suicide\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_8-)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner"
+      },
+      {
+        "short_name": "Rule 9 -  No image only replies or large ascii art",
+        "description": "* Comment replies must consist of more than just an image or link\n\n* No ASCII/emoji images over one line\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_9-)",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Rule 9 -  No image only replies or large ascii art"
+      },
+      {
+        "short_name": "Rule 10 - Harmful Misinformation",
+        "description": "* Do not downplay the effects of a medical crisis\n* Do not undermine the efficacy of vaccines where there is widespread agreement among the medical and scientific communities\n* Do not encourage illegal activity\n* Do not encourage delayed medical treatment\n\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-harmful_misinformation-)",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Rule 10 - Harmful Misinformation"
+      },
+      {
+        "short_name": "Rule 11 - No spam, machine generated content or karma farming",
+        "description": "* Do not post spam\n* Do not edit comments to mislead and/or advertise\n* Do not farm karma or shotgun comments\n* Bots are not allowed in r/AskReddit\n\n[The full rule can be viewed here](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_11-)",
+        "kind": "all",
+        "priority": 10,
+        "violation_reason": "Rule 11 - No spam, machine generated content or karma farming"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "reddit",
+    "raw_banned_by": null,
+    "raw_author_is_none": false,
+    "raw_selftext_value": null,
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:25:30.500364",
+    "hours_tracked": 0.6233168887429767
+  },
+  {
+    "id": "1km5w4z",
+    "title": "What should I do about my relationship?",
+    "text": "I16M have been a very emotional type of person for quite a while, dealing with anxiety attacks and SH pretty often, ive been someone who started to cry even on the thought of being without my girlfriend14F. Well for a while now, everything had been going downhill in my relationship, arguments, disagreements, and a lot of stuff, last night, my girlfriend finally decided to ask me for a break, saying that her mental health has really taken a toll and she needs some time, and she needs a break from all these arguments and everything, and she needs a break for about a week, which I accepted, and I let her take a break because as much as I dont wanna be without her, and I wanna stop her, I dont want to force her into being in this relationship while her mental health gets destroyed, but since last night, Ive just become emotionless, i cried once, had a few attacks since last night, but other than that, Ive just been emotionless ever since, and as for why she needed a break, she cheated on my in January for like 3 days but then she broke up with that guy because of guilt and how bad my condition got, and ever since Ive had trust issues with her, even though I accepted it, didnt end things and stayed with her, Ive still had a few trust issues causing me to be insecure of every guy, every thing, checking her chats again and again, well she found this quite toxic that Im not trusting her, and this caused a lot of arguments thus, she wanted a break, but is it normal that Ive become emotionless right now? After everything ended? Even though I was crying so much when I was with her on just the thought of losing her? Were in a long distance relationship, its been 11 months, and I love her very very much, but I dont wanna leave her, so Im very confused. And please dont say that we should focus on studies and career because we are, but we both love each other a lot, but she needed a break and I let her but Im confused as to what to do after shes back. Please help?",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/Advice/comments/1km5w4z/what_should_i_do_about_my_relationship/",
+    "author": "ityaadii",
+    "created_utc": 1747194731.0,
+    "subreddit": "Advice",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T20:52:24.434576",
+    "comments": [],
+    "post_length": 2004,
+    "title_length": 39,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Be Nice.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* No trolling, harassment, threats, hate-speech, triggering, rudeness, or other uncivil actions\n\n* No advocating violence\n\n* If you see someone being mean, please report them and move on\n\n* Gather your thoughts and emotions, do not snap at commenters who are just trying to help.\n\n* Know the difference between tough love, and being rude",
+        "kind": "all",
+        "priority": 0,
+        "violation_reason": "Not Nice"
+      },
+      {
+        "short_name": "Posts must ask for advice.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* Your post MUST have a clear question on what you need advice on\n\n* No asking for speculation\n\n* Posts that are purely ranting or venting don't belong here\n\n* No random, general, or hypothetical questions\n\n* Updates should be added as an edit to your original post, unless you are seeking additional advice\n\n* No asking for private chat/messages. Keep the conversation in r/Advice",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Not asking for advice"
+      },
+      {
+        "short_name": "Forbidden Topics",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n**No topics requiring any sort of professional expertise:**\n\n* Medical advice\n\n* Therapizing or counseling\n\n* Legal advice\n\n* Insurance questions\n\n* Automotive / mechanic advice\n\n**Non-professional forbidden topics:**\n\n* Tech support\n\n* Homework or any schoolwork\n\n* Criticism of appearance or talents\n\n* Revenge\n\n* Posts about Reddit itself",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Forbidden topics"
+      },
+      {
+        "short_name": "Follow the rules of Reddit.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\nAll rules of the Reddit Content Policy and User Agreement apply here.\n\n* No harassment, bullying, or inciting violence.\n\n* No spamming or ban evasion\n\n* Do not post personal or confidential information\n\n* No instigating doxxing, witch hunting, or brigading of any kind\n\n* No sexual content involving minors\n\n* The minimum age to use Reddit is 13\n\n* No posting about any sort of illegal activities.",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Violation of Reddit Rule"
+      },
+      {
+        "short_name": "No discrimination.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n**No racism, sexism, misogyny, or misandry**\n\n* Generalizations, hate, or insensitivity based on race, nationality, sex, gender, or sexuality\n\n* Incel behavior, regardless of gender\n\n**No hate or insensitivity to LGBTQ+ people**\n\n* Homophobia or transphobia\n\n* Phobia towards queer, genderfluid, nonbinary, or any other genders\n\n* No discrimination based on any other factors, beliefs, or categorizations not listed",
+        "kind": "all",
+        "priority": 4,
+        "violation_reason": "Discrimination"
+      },
+      {
+        "short_name": "Give OP the benefit of the doubt.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* Offer only advice, not judgement, scrutiny, or disbelief\n\n* No victim blaming or shaming\n\n* Do not try to call people out in the comments. If you believe a post is fake or lying, report it and move on.",
+        "kind": "comment",
+        "priority": 5,
+        "violation_reason": "Unnecessary Scrutiny"
+      },
+      {
+        "short_name": "Only post twice per day in /r/advice",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\nTo reduce the effect of spammers and trolls, you are limited to two posts per day in /r/advice.",
+        "kind": "link",
+        "priority": 6,
+        "violation_reason": "Posted more than twice today in /r/advice (submit proof to mods)."
+      },
+      {
+        "short_name": "No reassurance, validation, or affirmation seeking",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\nThis subreddit is for advice, NOT moral judgement, validation, affirming your opinions/feelings, or settling arguments\n\n* No AITA posts or AITA abbreviations.\n\n* No asking if you are right or wrong in a situation\n\n* No asking if your feelings are justified\n\n* No asking if you're overthinking, overreacting, being paranoid, etc.\n\nThis is not an all-inclusive list. See full rule for more",
+        "kind": "link",
+        "priority": 7,
+        "violation_reason": "Reassurance Seeking"
+      },
+      {
+        "short_name": "No Spam",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* No reposting without moderator approval\n\n* Do not put any external links in your post\n\n* No shitposting, fake posts, or joke posts. Get a life.\n\n* No asking for money or donations of any kind\n\n* No self promotion of any kind\n\n* No advertising of any kind, including posting referral links.\n\n* No asking for survey/research/interview participation",
+        "kind": "all",
+        "priority": 8,
+        "violation_reason": "Spam"
+      },
+      {
+        "short_name": "No suicide or self harm posts",
+        "description": "This subreddit will not host any posts about suicide or self harm. Please post in r/SuicideWatch or utilize the hotlines below. \n\nHelping a suicidal person requires training and skill sets that the average person does not possess. Unqualified users may have good intentions, but might inadvertently worsen the situation and/or strain their own mental health significantly.\n\nSimilarly, self harm is a complex and deeply-rooted behavior that the average person is not equipped to help with.",
+        "kind": "link",
+        "priority": 9,
+        "violation_reason": "No suicide or self harm posts"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "reddit",
+    "raw_banned_by": null,
+    "raw_author_is_none": false,
+    "raw_selftext_value": "[removed]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:27:00.555571",
+    "hours_tracked": 0.43924847304821013
+  },
+  {
+    "id": "1km5xlw",
+    "title": "What are some signs during a first conversation that made people realize they had just met their future spouse?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/AskReddit/comments/1km5xlw/what_are_some_signs_during_a_first_conversation/",
+    "author": "Eastern_Musician4865",
+    "created_utc": 1747194873.0,
+    "subreddit": "AskReddit",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T20:54:48.601872",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 111,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - Questions must be clear and direct and may not use the body textbox",
+        "description": "* All questions must be clear, written in English, and conclude with a question mark\n* All context in the title must be ***necessary to understanding the question***; do not give “example answers” in the post title (i.e. “Other than your mom, \\_\\_\\_\\_\\_\\_?”)\n* No text in the text box - any additional info from you must be added as a comment to your post\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_1-)",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Rule 1 - Questions must be clear and direct and may not use the body textbox"
+      },
+      {
+        "short_name": "Rule 2 - No personal or professional advice requests",
+        "description": "* Askreddit is NOT your personal or professional advice platform\n\n* Do not makes posts asking for professional advice - medical, legal, financial, or otherwise\n\n* All posts asking for advice must be generic and not specific to your situation alone\n\n* Do not use first person pronouns\n\n* No crowdsourcing naming or purchasing decisions\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_2-)",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Rule 2 - No personal or professional advice requests"
+      },
+      {
+        "short_name": "Rule 3 - Open ended questions only",
+        "description": "* Post must be an open-ended discussion question\n\n* Title must not be phrased to allow a simple yes/no answer\n\n* No questions that have definite answers\n\n* Question must not be a poll or survey\n\n* No “Either/Or” type questions\n\n* Do not ask for NSFW links\n\n* Do not specify a length (eg \"in three words...\") or make your post into a game\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_3-)",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Rule 3 - Open ended questions only"
+      },
+      {
+        "short_name": "Rule 4 - No personal info",
+        "description": "* Do not post or seek any **real or fake** personal information (examples include: full names, phone numbers, email addresses, or social media accounts)\n\n* Only link another user's comment when it is relevant and **never** when it is to launch a personal attack or encourage others to do so\n\n* Do not ask questions designed to target specific usernames or links to social media\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_4-)",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Rule 4 - No personal info"
+      },
+      {
+        "short_name": "Rule 5 - No loaded questions",
+        "description": "- Do not include an opinion, bias, or lead respondents towards expressing a specific opinion in your post title\n\n- Do not use this subreddit to promote a specific agenda or to gain positive or negative publicity for an entity or person\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_5-)",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Rule 5 - No loaded questions"
+      },
+      {
+        "short_name": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies",
+        "description": "* [Serious] posts are off-limits for joke replies and irrelevant or off-topic comments and discussion\n\n* If the OP asks for answers from a specific group in a [Serious] post, top level comments must be made from members of that group\n\n* Posts that do not receive relevant answers within an hour will be removed\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_6-)",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies"
+      },
+      {
+        "short_name": "Rule 7 - No begging for goods or services, or Reddit rewards",
+        "description": "* Do not ask for Reddit rewards, money, goods, services,or favors\n\n* Do not form a brigade to draw positive or negative attention to posts or comments in AskReddit, even from other subreddits\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_7-)",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "Rule 7 - No begging for goods or services, or Reddit rewards"
+      },
+      {
+        "short_name": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner",
+        "description": "* Do not make personal attacks, insult, or demean a specific group or person\n\n* Do not use slurs without relevant context and quotes\n\n* No blatant statements of bigotry\n\n* No posts that 'bait' users into breaking other rules\n\n* Zero tolerance for posts/comments that sexualize minors\n\n* Zero tolerance for posts/comments that encourage suicide\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_8-)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner"
+      },
+      {
+        "short_name": "Rule 9 -  No image only replies or large ascii art",
+        "description": "* Comment replies must consist of more than just an image or link\n\n* No ASCII/emoji images over one line\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_9-)",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Rule 9 -  No image only replies or large ascii art"
+      },
+      {
+        "short_name": "Rule 10 - Harmful Misinformation",
+        "description": "* Do not downplay the effects of a medical crisis\n* Do not undermine the efficacy of vaccines where there is widespread agreement among the medical and scientific communities\n* Do not encourage illegal activity\n* Do not encourage delayed medical treatment\n\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-harmful_misinformation-)",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Rule 10 - Harmful Misinformation"
+      },
+      {
+        "short_name": "Rule 11 - No spam, machine generated content or karma farming",
+        "description": "* Do not post spam\n* Do not edit comments to mislead and/or advertise\n* Do not farm karma or shotgun comments\n* Bots are not allowed in r/AskReddit\n\n[The full rule can be viewed here](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_11-)",
+        "kind": "all",
+        "priority": 10,
+        "violation_reason": "Rule 11 - No spam, machine generated content or karma farming"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:27:20.563920",
+    "hours_tracked": 0.3991982143455082
+  },
+  {
+    "id": "1km63js",
+    "title": "Mothers of Reddit , in your own words what does labour pains feel like ?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/AskReddit/comments/1km63js/mothers_of_reddit_in_your_own_words_what_does/",
+    "author": "peacheouting",
+    "created_utc": 1747195430.0,
+    "subreddit": "AskReddit",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T21:04:03.087979",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 72,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - Questions must be clear and direct and may not use the body textbox",
+        "description": "* All questions must be clear, written in English, and conclude with a question mark\n* All context in the title must be ***necessary to understanding the question***; do not give “example answers” in the post title (i.e. “Other than your mom, \\_\\_\\_\\_\\_\\_?”)\n* No text in the text box - any additional info from you must be added as a comment to your post\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_1-)",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Rule 1 - Questions must be clear and direct and may not use the body textbox"
+      },
+      {
+        "short_name": "Rule 2 - No personal or professional advice requests",
+        "description": "* Askreddit is NOT your personal or professional advice platform\n\n* Do not makes posts asking for professional advice - medical, legal, financial, or otherwise\n\n* All posts asking for advice must be generic and not specific to your situation alone\n\n* Do not use first person pronouns\n\n* No crowdsourcing naming or purchasing decisions\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_2-)",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Rule 2 - No personal or professional advice requests"
+      },
+      {
+        "short_name": "Rule 3 - Open ended questions only",
+        "description": "* Post must be an open-ended discussion question\n\n* Title must not be phrased to allow a simple yes/no answer\n\n* No questions that have definite answers\n\n* Question must not be a poll or survey\n\n* No “Either/Or” type questions\n\n* Do not ask for NSFW links\n\n* Do not specify a length (eg \"in three words...\") or make your post into a game\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_3-)",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Rule 3 - Open ended questions only"
+      },
+      {
+        "short_name": "Rule 4 - No personal info",
+        "description": "* Do not post or seek any **real or fake** personal information (examples include: full names, phone numbers, email addresses, or social media accounts)\n\n* Only link another user's comment when it is relevant and **never** when it is to launch a personal attack or encourage others to do so\n\n* Do not ask questions designed to target specific usernames or links to social media\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_4-)",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Rule 4 - No personal info"
+      },
+      {
+        "short_name": "Rule 5 - No loaded questions",
+        "description": "- Do not include an opinion, bias, or lead respondents towards expressing a specific opinion in your post title\n\n- Do not use this subreddit to promote a specific agenda or to gain positive or negative publicity for an entity or person\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_5-)",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Rule 5 - No loaded questions"
+      },
+      {
+        "short_name": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies",
+        "description": "* [Serious] posts are off-limits for joke replies and irrelevant or off-topic comments and discussion\n\n* If the OP asks for answers from a specific group in a [Serious] post, top level comments must be made from members of that group\n\n* Posts that do not receive relevant answers within an hour will be removed\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_6-)",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies"
+      },
+      {
+        "short_name": "Rule 7 - No begging for goods or services, or Reddit rewards",
+        "description": "* Do not ask for Reddit rewards, money, goods, services,or favors\n\n* Do not form a brigade to draw positive or negative attention to posts or comments in AskReddit, even from other subreddits\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_7-)",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "Rule 7 - No begging for goods or services, or Reddit rewards"
+      },
+      {
+        "short_name": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner",
+        "description": "* Do not make personal attacks, insult, or demean a specific group or person\n\n* Do not use slurs without relevant context and quotes\n\n* No blatant statements of bigotry\n\n* No posts that 'bait' users into breaking other rules\n\n* Zero tolerance for posts/comments that sexualize minors\n\n* Zero tolerance for posts/comments that encourage suicide\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_8-)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner"
+      },
+      {
+        "short_name": "Rule 9 -  No image only replies or large ascii art",
+        "description": "* Comment replies must consist of more than just an image or link\n\n* No ASCII/emoji images over one line\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_9-)",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Rule 9 -  No image only replies or large ascii art"
+      },
+      {
+        "short_name": "Rule 10 - Harmful Misinformation",
+        "description": "* Do not downplay the effects of a medical crisis\n* Do not undermine the efficacy of vaccines where there is widespread agreement among the medical and scientific communities\n* Do not encourage illegal activity\n* Do not encourage delayed medical treatment\n\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-harmful_misinformation-)",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Rule 10 - Harmful Misinformation"
+      },
+      {
+        "short_name": "Rule 11 - No spam, machine generated content or karma farming",
+        "description": "* Do not post spam\n* Do not edit comments to mislead and/or advertise\n* Do not farm karma or shotgun comments\n* Bots are not allowed in r/AskReddit\n\n[The full rule can be viewed here](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_11-)",
+        "kind": "all",
+        "priority": 10,
+        "violation_reason": "Rule 11 - No spam, machine generated content or karma farming"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:28:24.908735",
+    "hours_tracked": 0.24517815781964197
+  },
+  {
+    "id": "1km68r2",
+    "title": "El Chapos family enters US as part of negotiating plea deal of drug lords son",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/worldnews/comments/1km68r2/el_chapos_family_enters_us_as_part_of_negotiating/",
+    "author": "Spascucci",
+    "created_utc": 1747195937.0,
+    "subreddit": "worldnews",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T21:12:41.613910",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 79,
+    "is_self": false,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "No US Internal News or Politics",
+        "description": "Articles about events within the US or related to the US internal political process with no involvement of foreign officials or international organizations and no effect on people outside the US are not allowed here. The large subreddits for these topics are /r/news and /r/politics.",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "US Internal News or Politics"
+      },
+      {
+        "short_name": "No Editorialized or Misleading Titles",
+        "description": "Do not add opinion/commentary to the submission title. Don't add something that isn't covered by the article, and don't misrepresent the article. Adding a sentence from within the article that is more representative of the content is generally OK.\n\nAn article's title must not be misleading.  It may be removed if the title states a source's opinion as fact, or misrepresents the facts in the article or multiple other sources. \n\nAll caps words are not allowed, except for acronyms of course.",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Editorialized or Misleading Title"
+      },
+      {
+        "short_name": "No Feature stories",
+        "description": "Feature stories are journalistic reports providing more descriptive background information than a straight news report will contain. Dictionary.com: \"a newspaper or magazine article or report of a person, event, an aspect of a major event, or the like, often having a personal slant and written in an individual style.\"",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Feature story"
+      },
+      {
+        "short_name": "No Editorials, Opinion or Analysis Pieces",
+        "description": "/r/worldnews is for news, rather than analysis. There are several subreddits listed at the top of the page that are good for this. If the writer injects his/her opinion in the article or tries to draw any conclusion about a set of events, then it is no longer straight news and is not permitted in /r/worldnews.",
+        "kind": "link",
+        "priority": 3,
+        "violation_reason": "Editorial, Opinion, or Analysis"
+      },
+      {
+        "short_name": "No Articles In Languages Other Than English",
+        "description": "This includes articles that are auto-translated.",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Not in English"
+      },
+      {
+        "short_name": "No Images, Videos or Audio Clips",
+        "description": "If images, videos or audio files are part of an article that's fine, but the accompanying article must have some value of its own. Merely providing image captions or video descriptions isn't sufficient.",
+        "kind": "link",
+        "priority": 5,
+        "violation_reason": "Image, Video or Audio Clip"
+      },
+      {
+        "short_name": "No Old News Articles (≥ 1 Week old)",
+        "description": "Old News is any news older than one week.",
+        "kind": "link",
+        "priority": 6,
+        "violation_reason": "Out of Date"
+      },
+      {
+        "short_name": "Your content might be removed if /r/worldnews is not the appropriate subreddit for the story.",
+        "description": "Examples include but are not limited to:\n\nCelebrity gossip, local crimes, sports results, social media posts, goofy/zany/oddball stories, conspiracy/UFO/UAP/paranormal stories, commercial product and financial news, etc.\n\nPlease refer to our full rule in the [wiki](https://www.reddit.com/r/worldnews/wiki/rules/#wiki_inappropriate_content) .",
+        "kind": "link",
+        "priority": 7,
+        "violation_reason": "Inappropriate content for the subreddit"
+      },
+      {
+        "short_name": "No Bigotry or Other Offensive Content",
+        "description": "Hate speech directed towards an entire group of people who share a race, gender, sexual orientation, ethnicity, religion, nationality, social status or disability is not allowed.  This also applies to user names.",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Bigotry or Other Offensive Content"
+      },
+      {
+        "short_name": "No Personal Attacks On Other Users",
+        "description": "You may criticize a user's comment but not their person. Calling people names shuts down discussion. Accusing another user of being a \"shill\" is considered a personal attack. Stick to the issues and remain civil.",
+        "kind": "comment",
+        "priority": 9,
+        "violation_reason": "Personal Attack"
+      },
+      {
+        "short_name": "No Memes, Gifs, unlabeled NSFW images",
+        "description": "Memes may show up in image or in text form. Both are not allowed.\n\nBesides, porn or shock images unrelated to the story discussed will always be removed and posting them is an easy way to get banned.",
+        "kind": "comment",
+        "priority": 10,
+        "violation_reason": "Memes, Gifs, unlabeled NSFW images"
+      },
+      {
+        "short_name": "No chatGPT bots or copy/paste bots",
+        "description": "",
+        "kind": "comment",
+        "priority": 11,
+        "violation_reason": "No chatGPT bots or copy/paste bots"
+      }
+    ],
+    "media_type": "link",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": "https://www.theguardian.com/world/2025/may/13/el-chapo-family-ovidio-guzman-plea-deal",
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:29:47.057564",
+    "hours_tracked": 0.10114428910944197
+  },
+  {
+    "id": "1km69bi",
+    "title": "Can someone please help me figure out whats going on?",
+    "text": "On May 7, I received a random payment of 32 and I figured it must have sent it to the wrong person but I didnt send it back immediately because I was worried it might be a scam and not real money that they sent me. So I looked up the guys name, found what I thought might be him on facebook, and sent him a message about it there. He never saw it or responded. Just now, I received a request for 33 from the same person with the memo sent payment to wrong person. Before sending it back, I checked the status of the payment hed sent me and PayPal has put it on hold so I dont technically have his money. I checked in my bank app to make sure and I definitely dont have it at all. I didnt realize at first that you are able to message someone on PayPal about a transaction, so in order to try to communicate with him, I tried to send him a 1 request with a memo explaining the situation and how I cant send it back yet since I never received it in my bank account. When I went to send that requestmessage, PayPal gave me a message saying you cant send/request money from yourself. try again. I figured it must be some glitch so I tried a few times and it said that every time. Now I poked around a bit more and found out I can message him directly on PayPal through his original transaction so Ive now tried to contact him there and still no response yet. But what do you guys think is going on? Is this a real situation or some kind of scam? Im weirded out that I wasnt able to send him a request for some reason and that PayPal thought I was requesting from myself each time. Is it possible that his account doesnt exist somehow? Im so confused. Thank you in advance for any advice.",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/Advice/comments/1km69bi/can_someone_please_help_me_figure_out_whats_going/",
+    "author": "Southern-Topic-9888",
+    "created_utc": 1747195989.0,
+    "subreddit": "Advice",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-13T21:13:23.602285",
+    "comments": [],
+    "post_length": 1710,
+    "title_length": 54,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Be Nice.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* No trolling, harassment, threats, hate-speech, triggering, rudeness, or other uncivil actions\n\n* No advocating violence\n\n* If you see someone being mean, please report them and move on\n\n* Gather your thoughts and emotions, do not snap at commenters who are just trying to help.\n\n* Know the difference between tough love, and being rude",
+        "kind": "all",
+        "priority": 0,
+        "violation_reason": "Not Nice"
+      },
+      {
+        "short_name": "Posts must ask for advice.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* Your post MUST have a clear question on what you need advice on\n\n* No asking for speculation\n\n* Posts that are purely ranting or venting don't belong here\n\n* No random, general, or hypothetical questions\n\n* Updates should be added as an edit to your original post, unless you are seeking additional advice\n\n* No asking for private chat/messages. Keep the conversation in r/Advice",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Not asking for advice"
+      },
+      {
+        "short_name": "Forbidden Topics",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n**No topics requiring any sort of professional expertise:**\n\n* Medical advice\n\n* Therapizing or counseling\n\n* Legal advice\n\n* Insurance questions\n\n* Automotive / mechanic advice\n\n**Non-professional forbidden topics:**\n\n* Tech support\n\n* Homework or any schoolwork\n\n* Criticism of appearance or talents\n\n* Revenge\n\n* Posts about Reddit itself",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Forbidden topics"
+      },
+      {
+        "short_name": "Follow the rules of Reddit.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\nAll rules of the Reddit Content Policy and User Agreement apply here.\n\n* No harassment, bullying, or inciting violence.\n\n* No spamming or ban evasion\n\n* Do not post personal or confidential information\n\n* No instigating doxxing, witch hunting, or brigading of any kind\n\n* No sexual content involving minors\n\n* The minimum age to use Reddit is 13\n\n* No posting about any sort of illegal activities.",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Violation of Reddit Rule"
+      },
+      {
+        "short_name": "No discrimination.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n**No racism, sexism, misogyny, or misandry**\n\n* Generalizations, hate, or insensitivity based on race, nationality, sex, gender, or sexuality\n\n* Incel behavior, regardless of gender\n\n**No hate or insensitivity to LGBTQ+ people**\n\n* Homophobia or transphobia\n\n* Phobia towards queer, genderfluid, nonbinary, or any other genders\n\n* No discrimination based on any other factors, beliefs, or categorizations not listed",
+        "kind": "all",
+        "priority": 4,
+        "violation_reason": "Discrimination"
+      },
+      {
+        "short_name": "Give OP the benefit of the doubt.",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* Offer only advice, not judgement, scrutiny, or disbelief\n\n* No victim blaming or shaming\n\n* Do not try to call people out in the comments. If you believe a post is fake or lying, report it and move on.",
+        "kind": "comment",
+        "priority": 5,
+        "violation_reason": "Unnecessary Scrutiny"
+      },
+      {
+        "short_name": "Only post twice per day in /r/advice",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\nTo reduce the effect of spammers and trolls, you are limited to two posts per day in /r/advice.",
+        "kind": "link",
+        "priority": 6,
+        "violation_reason": "Posted more than twice today in /r/advice (submit proof to mods)."
+      },
+      {
+        "short_name": "No reassurance, validation, or affirmation seeking",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\nThis subreddit is for advice, NOT moral judgement, validation, affirming your opinions/feelings, or settling arguments\n\n* No AITA posts or AITA abbreviations.\n\n* No asking if you are right or wrong in a situation\n\n* No asking if your feelings are justified\n\n* No asking if you're overthinking, overreacting, being paranoid, etc.\n\nThis is not an all-inclusive list. See full rule for more",
+        "kind": "link",
+        "priority": 7,
+        "violation_reason": "Reassurance Seeking"
+      },
+      {
+        "short_name": "No Spam",
+        "description": "# See full rule descriptions [here](https://www.reddit.com/r/Advice/wiki/rules/)\n\n* No reposting without moderator approval\n\n* Do not put any external links in your post\n\n* No shitposting, fake posts, or joke posts. Get a life.\n\n* No asking for money or donations of any kind\n\n* No self promotion of any kind\n\n* No advertising of any kind, including posting referral links.\n\n* No asking for survey/research/interview participation",
+        "kind": "all",
+        "priority": 8,
+        "violation_reason": "Spam"
+      },
+      {
+        "short_name": "No suicide or self harm posts",
+        "description": "This subreddit will not host any posts about suicide or self harm. Please post in r/SuicideWatch or utilize the hotlines below. \n\nHelping a suicidal person requires training and skill sets that the average person does not possess. Unqualified users may have good intentions, but might inadvertently worsen the situation and/or strain their own mental health significantly.\n\nSimilarly, self harm is a complex and deeply-rooted behavior that the average person is not equipped to help with.",
+        "kind": "link",
+        "priority": 9,
+        "violation_reason": "No suicide or self harm posts"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "video_url": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-13T21:29:52.991738",
+    "hours_tracked": 0.08947976052761078
+  }
+]

@@ -1,0 +1,81 @@
+{
+  "total_posts": 658,
+  "removed_posts": 165,
+  "removal_rate": 25.07598784194529,
+  "subreddit_distribution": {
+    "Advice": 143,
+    "AskReddit": 378,
+    "politics": 15,
+    "legaladvice": 34,
+    "relationship_advice": 47,
+    "news": 4,
+    "AskHistorians": 5,
+    "personalfinance": 18,
+    "worldnews": 5,
+    "technology": 5,
+    "Pyongyang": 1,
+    "science": 1,
+    "programming": 1,
+    "askscience": 1
+  },
+  "media_type_distribution": {
+    "text": 626,
+    "link": 31,
+    "image": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 4,
+      "max": 299,
+      "avg": 65.40121580547113
+    },
+    "text": {
+      "min": 0,
+      "max": 12998,
+      "avg": 547.3966565349544
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.9969604863221885
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.11854103343465046
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 31,
+      "relationship_advice": 17,
+      "AskReddit": 99,
+      "personalfinance": 7,
+      "askscience": 1,
+      "legaladvice": 8,
+      "politics": 2
+    },
+    "by_media_type": {
+      "text": 163,
+      "link": 2
+    },
+    "by_url_count": {
+      "0": 164,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 4,
+    "total_urls": 4,
+    "urls_in_removed_posts": 1,
+    "url_domains": {
+      "imgur.com": 2,
+      "en.wikipedia.org": 1,
+      "law.justia.com": 1
+    }
+  }
+}

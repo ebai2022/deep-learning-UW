@@ -1,0 +1,99 @@
+{
+  "total_posts": 905,
+  "removed_posts": 313,
+  "removal_rate": 34.585635359116026,
+  "subreddit_distribution": {
+    "AskReddit": 452,
+    "technology": 24,
+    "relationship_advice": 61,
+    "politics": 68,
+    "Advice": 142,
+    "AskHistorians": 22,
+    "worldnews": 33,
+    "legaladvice": 51,
+    "science": 7,
+    "personalfinance": 36,
+    "programming": 5,
+    "news": 4
+  },
+  "media_type_distribution": {
+    "text": 765,
+    "link": 139,
+    "video": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 3,
+      "max": 299,
+      "avg": 71.3524861878453
+    },
+    "text": {
+      "min": 0,
+      "max": 11992,
+      "avg": 447.5303867403315
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.0066298342541435
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.23093922651933702
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 175,
+      "Advice": 43,
+      "relationship_advice": 18,
+      "personalfinance": 12,
+      "technology": 8,
+      "legaladvice": 22,
+      "programming": 1,
+      "AskHistorians": 8,
+      "politics": 13,
+      "worldnews": 10,
+      "science": 2,
+      "news": 1
+    },
+    "by_media_type": {
+      "text": 278,
+      "link": 35
+    },
+    "by_url_count": {
+      "0": 311,
+      "1": 2
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 10,
+    "total_urls": 34,
+    "urls_in_removed_posts": 2,
+    "url_domains": {
+      "apnews.com": 2,
+      "www.scotusblog.com": 2,
+      "www.nbcnews.com": 1,
+      "www.npr.org": 2,
+      "www.cbsnews.com": 1,
+      "www.theguardian.com": 1,
+      "www.c-span.org": 1,
+      "www.youtube.com": 1,
+      "www.pittsburghpa.gov": 1,
+      "www.reddit.com": 3,
+      "en.wikipedia.org": 9,
+      "alithisfamilylaw.com": 1,
+      "www.clevelandclinicabudhabi.ae": 2,
+      "health.usnews.com": 2,
+      "www.vitals.com": 2,
+      "play.google.com": 1,
+      "imgur.com": 1,
+      "acrobat.adobe.com": 1
+    }
+  }
+}

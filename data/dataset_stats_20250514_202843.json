@@ -1,0 +1,87 @@
+{
+  "total_posts": 220,
+  "removed_posts": 220,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "AskReddit": 96,
+    "relationship_advice": 14,
+    "Advice": 51,
+    "AskHistorians": 2,
+    "legaladvice": 22,
+    "politics": 12,
+    "worldnews": 7,
+    "personalfinance": 9,
+    "news": 1,
+    "programming": 2,
+    "science": 3,
+    "technology": 1
+  },
+  "media_type_distribution": {
+    "text": 194,
+    "link": 26
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 6,
+      "max": 297,
+      "avg": 70.48636363636363
+    },
+    "text": {
+      "min": 0,
+      "max": 11187,
+      "avg": 672.0863636363637
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.990909090909091
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.18181818181818182
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 96,
+      "relationship_advice": 14,
+      "Advice": 51,
+      "AskHistorians": 2,
+      "legaladvice": 22,
+      "politics": 12,
+      "worldnews": 7,
+      "personalfinance": 9,
+      "news": 1,
+      "programming": 2,
+      "science": 3,
+      "technology": 1
+    },
+    "by_media_type": {
+      "text": 194,
+      "link": 26
+    },
+    "by_url_count": {
+      "0": 218,
+      "1": 1,
+      "6": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 2,
+    "total_urls": 7,
+    "urls_in_removed_posts": 7,
+    "url_domains": {
+      "progressgremlin.carrd.co": 1,
+      "plusma.ai)": 2,
+      "youtu.be": 1,
+      "deepmind.google": 1,
+      "docs.anthropic.com": 1,
+      "generalagents.com": 1
+    }
+  }
+}
