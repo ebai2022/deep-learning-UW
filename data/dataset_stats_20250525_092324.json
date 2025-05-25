@@ -1,0 +1,101 @@
+{
+  "total_posts": 794,
+  "removed_posts": 280,
+  "removal_rate": 35.26448362720403,
+  "subreddit_distribution": {
+    "Advice": 134,
+    "relationship_advice": 54,
+    "legaladvice": 26,
+    "AskReddit": 393,
+    "memes": 62,
+    "pics": 17,
+    "politics": 16,
+    "funny": 10,
+    "photography": 4,
+    "worldnews": 16,
+    "AskHistorians": 21,
+    "personalfinance": 20,
+    "programming": 9,
+    "science": 3,
+    "technology": 5,
+    "news": 4
+  },
+  "media_type_distribution": {
+    "text": 652,
+    "image": 71,
+    "link": 53,
+    "video": 15,
+    "gallery": 3
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 5,
+      "max": 299,
+      "avg": 62.768261964735515
+    },
+    "text": {
+      "min": 0,
+      "max": 9565,
+      "avg": 463.08060453400503
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.0037783375314862
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.1385390428211587
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 41,
+      "legaladvice": 9,
+      "memes": 40,
+      "funny": 7,
+      "relationship_advice": 21,
+      "AskReddit": 118,
+      "pics": 4,
+      "personalfinance": 9,
+      "AskHistorians": 9,
+      "programming": 6,
+      "worldnews": 7,
+      "news": 3,
+      "politics": 3,
+      "photography": 1,
+      "technology": 2
+    },
+    "by_media_type": {
+      "text": 208,
+      "image": 43,
+      "video": 8,
+      "link": 21
+    },
+    "by_url_count": {
+      "0": 275,
+      "3": 1,
+      "1": 4
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 8,
+    "total_urls": 10,
+    "urls_in_removed_posts": 7,
+    "url_domains": {
+      "commons.wikimedia.org": 1,
+      "www.reddit.com": 2,
+      "Schema.org)": 2,
+      "go.fabswill.com": 1,
+      "www.jstor.org": 1,
+      "www.youtube.com": 1,
+      "www.plainlegal.net": 1,
+      "smartsubsaver.com": 1
+    }
+  }
+}

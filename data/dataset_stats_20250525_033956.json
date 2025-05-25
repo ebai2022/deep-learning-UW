@@ -1,0 +1,97 @@
+{
+  "total_posts": 669,
+  "removed_posts": 188,
+  "removal_rate": 28.101644245142005,
+  "subreddit_distribution": {
+    "AskReddit": 343,
+    "legaladvice": 29,
+    "memes": 38,
+    "Advice": 139,
+    "politics": 10,
+    "pics": 9,
+    "relationship_advice": 50,
+    "programming": 6,
+    "science": 3,
+    "personalfinance": 9,
+    "AskHistorians": 11,
+    "worldnews": 11,
+    "technology": 4,
+    "Pyongyang": 2,
+    "photography": 2,
+    "crypto": 1,
+    "funny": 2
+  },
+  "media_type_distribution": {
+    "text": 584,
+    "image": 46,
+    "link": 34,
+    "gallery": 3,
+    "video": 2
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 6,
+      "max": 291,
+      "avg": 64.14947683109118
+    },
+    "text": {
+      "min": 0,
+      "max": 7275,
+      "avg": 467.39461883408075
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.13004484304932734
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 45,
+      "relationship_advice": 18,
+      "AskReddit": 81,
+      "legaladvice": 7,
+      "memes": 19,
+      "pics": 3,
+      "crypto": 1,
+      "photography": 1,
+      "programming": 1,
+      "personalfinance": 1,
+      "funny": 2,
+      "worldnews": 6,
+      "science": 2,
+      "AskHistorians": 1
+    },
+    "by_media_type": {
+      "text": 155,
+      "image": 22,
+      "gallery": 1,
+      "link": 9,
+      "video": 1
+    },
+    "by_url_count": {
+      "0": 186,
+      "1": 2
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 4,
+    "total_urls": 4,
+    "urls_in_removed_posts": 2,
+    "url_domains": {
+      "www.calicocritterofficial.us.com": 1,
+      "library.ucsd.edu": 1,
+      "zenodo.org": 1,
+      "rosetta.org)": 1
+    }
+  }
+}
