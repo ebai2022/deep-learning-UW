@@ -1,0 +1,96 @@
+{
+  "total_posts": 830,
+  "removed_posts": 231,
+  "removal_rate": 27.831325301204817,
+  "subreddit_distribution": {
+    "AskReddit": 406,
+    "technology": 10,
+    "AskHistorians": 16,
+    "Advice": 147,
+    "funny": 15,
+    "relationship_advice": 51,
+    "politics": 28,
+    "legaladvice": 59,
+    "worldnews": 12,
+    "news": 5,
+    "personalfinance": 34,
+    "memes": 19,
+    "pics": 15,
+    "programming": 9,
+    "photography": 3,
+    "crypto": 1
+  },
+  "media_type_distribution": {
+    "text": 716,
+    "link": 66,
+    "image": 38,
+    "gallery": 2,
+    "video": 8
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 4,
+      "max": 295,
+      "avg": 65.37831325301205
+    },
+    "text": {
+      "min": 0,
+      "max": 17569,
+      "avg": 551.0746987951808
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 3,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.15421686746987953
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 113,
+      "relationship_advice": 16,
+      "Advice": 37,
+      "politics": 6,
+      "personalfinance": 7,
+      "pics": 6,
+      "legaladvice": 19,
+      "memes": 6,
+      "worldnews": 8,
+      "AskHistorians": 5,
+      "photography": 2,
+      "funny": 4,
+      "technology": 2
+    },
+    "by_media_type": {
+      "text": 199,
+      "link": 16,
+      "image": 13,
+      "video": 3
+    },
+    "by_url_count": {
+      "0": 230,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 4,
+    "total_urls": 6,
+    "urls_in_removed_posts": 1,
+    "url_domains": {
+      "cornhub.website).": 1,
+      "universal-verify.github.io": 1,
+      "imgur.com": 1,
+      "www.oldmagazinearticles.com": 1,
+      "en.wiktionary.org": 1,
+      "app.pandadoc.com": 1
+    }
+  }
+}

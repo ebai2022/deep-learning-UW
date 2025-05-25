@@ -1,0 +1,536 @@
+[
+  {
+    "id": "1ktq9m7",
+    "title": "If you could kill one famous person right now, who would it be?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/AskReddit/comments/1ktq9m7/if_you_could_kill_one_famous_person_right_now_who/",
+    "author": "No_Macaroon_7608",
+    "created_utc": 1748023431.0,
+    "subreddit": "AskReddit",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-23T11:04:03.818041",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 63,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - Questions must be clear and direct and may not use the body textbox",
+        "description": "* All questions must be clear, written in English, and conclude with a question mark\n* All context in the title must be ***necessary to understanding the question***; do not give “example answers” in the post title (i.e. “Other than your mom, \\_\\_\\_\\_\\_\\_?”)\n* No text in the text box - any additional info from you must be added as a comment to your post\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_1-)",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Rule 1 - Questions must be clear and direct and may not use the body textbox"
+      },
+      {
+        "short_name": "Rule 2 - No personal or professional advice requests",
+        "description": "* Askreddit is NOT your personal or professional advice platform\n\n* Do not makes posts asking for professional advice - medical, legal, financial, or otherwise\n\n* All posts asking for advice must be generic and not specific to your situation alone\n\n* Do not use first person pronouns\n\n* No crowdsourcing naming or purchasing decisions\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_2-)",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Rule 2 - No personal or professional advice requests"
+      },
+      {
+        "short_name": "Rule 3 - Open ended questions only",
+        "description": "* Post must be an open-ended discussion question\n\n* Title must not be phrased to allow a simple yes/no answer\n\n* No questions that have definite answers\n\n* Question must not be a poll or survey\n\n* No “Either/Or” type questions\n\n* Do not ask for NSFW links\n\n* Do not specify a length (eg \"in three words...\") or make your post into a game\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_3-)",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Rule 3 - Open ended questions only"
+      },
+      {
+        "short_name": "Rule 4 - No personal info",
+        "description": "* Do not post or seek any **real or fake** personal information (examples include: full names, phone numbers, email addresses, or social media accounts)\n\n* Only link another user's comment when it is relevant and **never** when it is to launch a personal attack or encourage others to do so\n\n* Do not ask questions designed to target specific usernames or links to social media\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_4-)",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Rule 4 - No personal info"
+      },
+      {
+        "short_name": "Rule 5 - No loaded questions",
+        "description": "- Do not include an opinion, bias, or lead respondents towards expressing a specific opinion in your post title\n\n- Do not use this subreddit to promote a specific agenda or to gain positive or negative publicity for an entity or person\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_5-)",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Rule 5 - No loaded questions"
+      },
+      {
+        "short_name": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies",
+        "description": "* [Serious] posts are off-limits for joke replies and irrelevant or off-topic comments and discussion\n\n* If the OP asks for answers from a specific group in a [Serious] post, top level comments must be made from members of that group\n\n* Posts that do not receive relevant answers within an hour will be removed\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_6-)",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies"
+      },
+      {
+        "short_name": "Rule 7 - No begging for goods or services, or Reddit rewards",
+        "description": "* Do not ask for Reddit rewards, money, goods, services,or favors\n\n* Do not form a brigade to draw positive or negative attention to posts or comments in AskReddit, even from other subreddits\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_7-)",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "Rule 7 - No begging for goods or services, or Reddit rewards"
+      },
+      {
+        "short_name": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner",
+        "description": "* Do not make personal attacks, insult, or demean a specific group or person\n\n* Do not use slurs without relevant context and quotes\n\n* No blatant statements of bigotry\n\n* No posts that 'bait' users into breaking other rules\n\n* Zero tolerance for posts/comments that sexualize minors\n\n* Zero tolerance for posts/comments that encourage suicide\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_8-)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner"
+      },
+      {
+        "short_name": "Rule 9 -  No image only replies or large ascii art",
+        "description": "* Comment replies must consist of more than just an image or link\n\n* No ASCII/emoji images over one line\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_9-)",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Rule 9 -  No image only replies or large ascii art"
+      },
+      {
+        "short_name": "Rule 10 - Harmful Misinformation",
+        "description": "* Do not downplay the effects of a medical crisis\n* Do not undermine the efficacy of vaccines where there is widespread agreement among the medical and scientific communities\n* Do not encourage illegal activity\n* Do not encourage delayed medical treatment\n\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-harmful_misinformation-)",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Rule 10 - Harmful Misinformation"
+      },
+      {
+        "short_name": "Rule 11 - No spam, machine generated content or karma farming",
+        "description": "* Do not post spam\n* Do not edit comments to mislead and/or advertise\n* Do not farm karma or shotgun comments\n* Bots are not allowed in r/AskReddit\n\n[The full rule can be viewed here](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_11-)",
+        "kind": "all",
+        "priority": 10,
+        "violation_reason": "Rule 11 - No spam, machine generated content or karma farming"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_url": null,
+    "local_video_path": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-23T11:18:58.562674",
+    "hours_tracked": 0.20729225350750818
+  },
+  {
+    "id": "1ktq9xq",
+    "title": "Do you know Roman Numerals?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/memes/comments/1ktq9xq/do_you_know_roman_numerals/",
+    "author": "OracleGaming4",
+    "created_utc": 1748023456.0,
+    "subreddit": "memes",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-23T11:04:33.680354",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 27,
+    "is_self": false,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - ALL POSTS MUST BE MEMES and FOLLOW A GENERAL MEME FORMAT",
+        "description": "All posts must follow typical meme setup/design: an image/gif/video with some sort of caption; mods have final say on what is (not) a meme; tldr:\n\n- No titles as meme captions\n- A GIF/video alone (without caption) is not a meme [especially screen recording / scrolling]\n- Do not post screenshots of people saying something funny on Twitter/Tumblr/Reddit/TikTok/text messages\n- No unedited webcomics\n- No text-only memes\n- No IRL recreations or creepshots; no selfies or making friends into a meme",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "!Rule 1 - ALL POSTS MUST BE MEMES and FOLLOW A GENERAL MEME FORMAT"
+      },
+      {
+        "short_name": "Rule 2 - NO MEMES ABOUT POLARIZING/POLITICAL TOPICS, VULNERABLE GROUPS, VIOLENCE, ETC. [SEE LIST]",
+        "description": "- No violation of Reddit Content Policy/TOS\n- No memes involving race, ethnicity, color, nationality, gender, sexual orientation/identity, religion, disability, etc. (can have a character, but that part cannot be integral)\n- No mention of gore, murder, suicide, death, terrorism, shootings, war, tragedies, sexual harassment/assault, pedophilia (even implied), incest, etc.\n- No politics/political topics/agendas; absurd memes featuring politicians are allowed if said status is merely incidental",
+        "kind": "all",
+        "priority": 1,
+        "violation_reason": "!Rule 2 - NO MEMES ABOUT POLARIZING/POLITICAL TOPICS, VULNERABLE GROUPS, VIOLENCE, ETC. [SEE LIST]"
+      },
+      {
+        "short_name": "Rule 3 - NO SPAM/CHAINPOSTING and NO OVERUSED/PROHIBITED MEME TEMPLATES [SEE LIST]",
+        "description": "- [List of overused/prohibited meme types/templates](https://www.reddit.com/r/memes/wiki/overused) READ THE LIST (monthly)\n- Reaction Memes are not allowed. Do not post a top/bottom image onto a screenshot, headline, comic, meme, or other content. [See guide.](https://imgur.com/a/CRwobws)\n- No split/linked posts (either between yourself or others), no chainposting. Do not flood the sub\n- NSFW posts must be marked; the central focus of the meme cannot be porn\n- Do not post over 5 times per 24 hrs",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "!Rule 3 - NO SPAM/CHAINPOSTING and NO OVERUSED/PROHIBITED MEME TEMPLATES [SEE LIST]"
+      },
+      {
+        "short_name": "Rule 4 - NO INTERACTION-BAITING POSTS/TITLES and NO IDENTIFYING INFO/WATERMARKS",
+        "description": "- No usernames (other than your Reddit u/); do not show/link any social media/self-promote\n- Other than soft identifiers like mematic, no watermarks (iFunny is not allowed)\n- Do not post/request identifying info.\n- No posts relying on audience interaction (karma farms); examples: petitions, AMAs, \"Comment X and I'll do Y\", \"wrong answers only\", guessing/writing/rating songs, etc. [rhetorical questions may be OK, subject to mod judgment]\n- No mention of votes/cake days/karma/followers, etc.",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "!Rule 4 - NO INTERACTION-BAITING POSTS/TITLES and NO IDENTIFYING INFO/WATERMARKS"
+      },
+      {
+        "short_name": "Rule 5 - NO VIDEOS LONGER THAN 15 SECONDS and DIRECT REDDIT UPLOADS ONLY (NO LINKS)",
+        "description": "- Upload directly to Reddit; do not link to hosting sites like imgur\n- No videos longer than 15 seconds (and must include captions/meme text overlay)\n- No intentionally loud audio\n- Videos should not be TikToks or other non-meme content: Not every image/gif/video is a meme. This is what r/pics, r/gifs, or r/videos are for. Even if an image is comedic, it still may not be a meme if it's missing a caption/commentary\n- Gifs (w/ captions) are always allowed, as long as they don't violate other rules",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "!Rule 5 - NO VIDEOS LONGER THAN 15 SECONDS and DIRECT REDDIT UPLOADS ONLY (NO LINKS)"
+      },
+      {
+        "short_name": "Rule 6 - ONLY POST MEMES YOU ACTUALLY MADE YOURSELF/NO REPOSTS and NO BAD CROPPING/LOW-RES MEMES",
+        "description": "- If you found a meme somewhere else, do not post it here\n- If you want to post across other sites/subs, post to r/memes first. We will not look into your Instagram, TikTok, Facebook, etc. to verify the creator\n- Do not repost your same meme again later. Even mentioning the word \"repost\" is grounds for removal\n- Mods have discretion to remove posts which are poorly cropped (inc. aspect ratio), low resolution, grainy, artifacted, or pixelated. The mod team doesn't have to prove it is a repost",
+        "kind": "link",
+        "priority": 5,
+        "violation_reason": "!Rule 6 - ONLY POST MEMES YOU ACTUALLY MADE YOURSELF/NO REPOSTS and NO BAD CROPPING/LOW-RES MEMES"
+      }
+    ],
+    "media_type": "image",
+    "image_urls": [
+      "https://i.redd.it/af02x6y5nk2f1.png"
+    ],
+    "local_image_paths": [
+      "data/media/images/memes/1ktq9xq_c763f5b7.png"
+    ],
+    "video_url": null,
+    "local_video_path": null,
+    "original_url": "https://i.redd.it/af02x6y5nk2f1.png",
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "moderator",
+    "raw_banned_by": null,
+    "raw_author_is_none": false,
+    "raw_selftext_value": null,
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-23T11:19:10.573118",
+    "hours_tracked": 0.19900020784801908
+  },
+  {
+    "id": "1ktqc0p",
+    "title": "Built Dasshh - a personal AI assistant on your terminal!",
+    "text": "Hey Reddit! Ive been working on Dasshh - an open-source AI assistant that lives in your terminal and lets you interact with your computer using plain English instead of memorizing complex command-line syntax. The Problem: We spend way too much mental energy on repetitive terminal tasks and remembering arcane commands when we should be focusing on actual problem-solving. The Solution: Just tell Dasshh what you want to do in natural language, and it handles the technical details. Key Features: Perform actions on your computer with natural language Open source Beautiful, Minimal TUI Add custom tools for your workflows Cross-platform Try it out and let me know what you think! What tools would you want to integrate? Docs: blog.vgnshiyer.dev/dasshhhttp://blog.vgnshiyer.dev/dasshh GitHub: github.com/vgnshiyer/dasshhWouldhttp://github.com/vgnshiyer/dasshhWould love to hear your thoughts and suggestions! AI Terminal Developer OpenSource CLI TUI Agents Assistant Agentic-AI",
+    "urls": {
+      "content": [
+        "http://blog.vgnshiyer.dev/dasshh)",
+        "http://github.com/vgnshiyer/dasshhWould)"
+      ],
+      "title": [],
+      "total": 2
+    },
+    "permalink": "https://reddit.com/r/programming/comments/1ktqc0p/built_dasshh_a_personal_ai_assistant_on_your/",
+    "author": "Mediocre-Trip3530",
+    "created_utc": 1748023603.0,
+    "subreddit": "programming",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-23T11:07:01.296859",
+    "comments": [],
+    "post_length": 1083,
+    "title_length": 56,
+    "is_self": false,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "/r/programming is not a support forum",
+        "description": "/r/programming is not a support forum. If you have a question, check out /r/learnprogramming, /r/cscareerquestions, or [Stack Overflow](https://stackoverflow.com/).",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "/r/programming is not a support forum"
+      },
+      {
+        "short_name": "Keep submissions on topic and of high quality",
+        "description": "Submissions should be directly related to programming.  Just because it has a computer in it doesn't make it programming.\n\nSubmissions containing no real content that are simply farming for e-mail addresses will be removed as spam.\n\nDirect links to app demos (unrelated to programming) will be removed.  Please link to a blog post/post-mortem about the development process instead.",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Not programming"
+      },
+      {
+        "short_name": "No surveys",
+        "description": "Surveys/polls are typically obnoxious.  Pretty much any survey, academic or otherwise, will be removed by the mod team.  Check out /r/samplesize as an alternative place to submit surveys.\n\nExceptions are made for high quality surveys hosted by established members of the software development community (really just the annual SO Developer Survey).",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "No surveys"
+      },
+      {
+        "short_name": "No résumés/job listings",
+        "description": "/r/programming is not a jobs board.  Please visit /r/forhire or /r/jobbit for submitting résumés or open positions.\n\nSubmissions on the topic of hiring programmers or getting hired as a programmer are generally acceptable, as long as they are not a résumés or an ad for an open position in disguise.",
+        "kind": "link",
+        "priority": 3,
+        "violation_reason": "No résumés/job listings"
+      },
+      {
+        "short_name": "Project and product demos, spam",
+        "description": "Reddit may have relaxed its position on self-promotion, but /r/programming has not:\n\n* If a majority of your contributions to reddit constitute self-promotion, you will be banned\n* If you immediately start submitting promotional material with a fresh account, you will be banned\n* The mods of /r/programming all have day jobs, we do not waste time handing out warnings\n\nIf you wish to use reddit as a promotional tool, [please do so legitimately](https://about.reddit.com/advertise/).",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Spam"
+      },
+      {
+        "short_name": "\"Will AI replace programmers?\"",
+        "description": "If the topic if your article is \"will AI replace programmers\", it *must* be accompanied by a submission statement about how it is different from the 30 other identical articles posted in the last 8 seconds. It must state specifically what it addresses that these other articles haven't addressed and what makes it unique. Hint: it's probably not!",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "\"Will AI replace programmers?\""
+      }
+    ],
+    "media_type": "link",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_url": null,
+    "local_video_path": null,
+    "original_url": "http://blog.vgnshiyer.dev/dasshh",
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "moderator",
+    "raw_banned_by": null,
+    "raw_author_is_none": false,
+    "raw_selftext_value": "[removed]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-23T11:19:28.604877",
+    "hours_tracked": 0.15799318823549482
+  },
+  {
+    "id": "1ktqcb3",
+    "title": "If you had 5 minutes to speak at your high school graduation, whats the absolute worst thing you could say into the mic?",
+    "text": "",
+    "urls": {
+      "content": [],
+      "title": [],
+      "total": 0
+    },
+    "permalink": "https://reddit.com/r/AskReddit/comments/1ktqcb3/if_you_had_5_minutes_to_speak_at_your_high_school/",
+    "author": "RightSuit1106",
+    "created_utc": 1748023623.0,
+    "subreddit": "AskReddit",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-23T11:07:22.445889",
+    "comments": [],
+    "post_length": 0,
+    "title_length": 121,
+    "is_self": true,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "Rule 1 - Questions must be clear and direct and may not use the body textbox",
+        "description": "* All questions must be clear, written in English, and conclude with a question mark\n* All context in the title must be ***necessary to understanding the question***; do not give “example answers” in the post title (i.e. “Other than your mom, \\_\\_\\_\\_\\_\\_?”)\n* No text in the text box - any additional info from you must be added as a comment to your post\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_1-)",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "Rule 1 - Questions must be clear and direct and may not use the body textbox"
+      },
+      {
+        "short_name": "Rule 2 - No personal or professional advice requests",
+        "description": "* Askreddit is NOT your personal or professional advice platform\n\n* Do not makes posts asking for professional advice - medical, legal, financial, or otherwise\n\n* All posts asking for advice must be generic and not specific to your situation alone\n\n* Do not use first person pronouns\n\n* No crowdsourcing naming or purchasing decisions\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_2-)",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Rule 2 - No personal or professional advice requests"
+      },
+      {
+        "short_name": "Rule 3 - Open ended questions only",
+        "description": "* Post must be an open-ended discussion question\n\n* Title must not be phrased to allow a simple yes/no answer\n\n* No questions that have definite answers\n\n* Question must not be a poll or survey\n\n* No “Either/Or” type questions\n\n* Do not ask for NSFW links\n\n* Do not specify a length (eg \"in three words...\") or make your post into a game\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_3-)",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "Rule 3 - Open ended questions only"
+      },
+      {
+        "short_name": "Rule 4 - No personal info",
+        "description": "* Do not post or seek any **real or fake** personal information (examples include: full names, phone numbers, email addresses, or social media accounts)\n\n* Only link another user's comment when it is relevant and **never** when it is to launch a personal attack or encourage others to do so\n\n* Do not ask questions designed to target specific usernames or links to social media\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_4-)",
+        "kind": "all",
+        "priority": 3,
+        "violation_reason": "Rule 4 - No personal info"
+      },
+      {
+        "short_name": "Rule 5 - No loaded questions",
+        "description": "- Do not include an opinion, bias, or lead respondents towards expressing a specific opinion in your post title\n\n- Do not use this subreddit to promote a specific agenda or to gain positive or negative publicity for an entity or person\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_5-)",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Rule 5 - No loaded questions"
+      },
+      {
+        "short_name": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies",
+        "description": "* [Serious] posts are off-limits for joke replies and irrelevant or off-topic comments and discussion\n\n* If the OP asks for answers from a specific group in a [Serious] post, top level comments must be made from members of that group\n\n* Posts that do not receive relevant answers within an hour will be removed\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_6-)",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "Rule 6 - [Serious] tagged posts are off-limits to jokes or irrelevant replies"
+      },
+      {
+        "short_name": "Rule 7 - No begging for goods or services, or Reddit rewards",
+        "description": "* Do not ask for Reddit rewards, money, goods, services,or favors\n\n* Do not form a brigade to draw positive or negative attention to posts or comments in AskReddit, even from other subreddits\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_7-)",
+        "kind": "all",
+        "priority": 6,
+        "violation_reason": "Rule 7 - No begging for goods or services, or Reddit rewards"
+      },
+      {
+        "short_name": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner",
+        "description": "* Do not make personal attacks, insult, or demean a specific group or person\n\n* Do not use slurs without relevant context and quotes\n\n* No blatant statements of bigotry\n\n* No posts that 'bait' users into breaking other rules\n\n* Zero tolerance for posts/comments that sexualize minors\n\n* Zero tolerance for posts/comments that encourage suicide\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_8-)",
+        "kind": "all",
+        "priority": 7,
+        "violation_reason": "Rule 8 - Be respectful to other users at all times and conduct your behaviour in a civil manner"
+      },
+      {
+        "short_name": "Rule 9 -  No image only replies or large ascii art",
+        "description": "* Comment replies must consist of more than just an image or link\n\n* No ASCII/emoji images over one line\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-rule_9-)",
+        "kind": "comment",
+        "priority": 8,
+        "violation_reason": "Rule 9 -  No image only replies or large ascii art"
+      },
+      {
+        "short_name": "Rule 10 - Harmful Misinformation",
+        "description": "* Do not downplay the effects of a medical crisis\n* Do not undermine the efficacy of vaccines where there is widespread agreement among the medical and scientific communities\n* Do not encourage illegal activity\n* Do not encourage delayed medical treatment\n\n\n[The full rule can be viewed here](https://www.reddit.com/r/askreddit/wiki/index#wiki_-harmful_misinformation-)",
+        "kind": "all",
+        "priority": 9,
+        "violation_reason": "Rule 10 - Harmful Misinformation"
+      },
+      {
+        "short_name": "Rule 11 - No spam, machine generated content or karma farming",
+        "description": "* Do not post spam\n* Do not edit comments to mislead and/or advertise\n* Do not farm karma or shotgun comments\n* Bots are not allowed in r/AskReddit\n\n[The full rule can be viewed here](https://www.reddit.com/r/AskReddit/wiki/index#wiki_-rule_11-)",
+        "kind": "all",
+        "priority": 10,
+        "violation_reason": "Rule 11 - No spam, machine generated content or karma farming"
+      }
+    ],
+    "media_type": "text",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_url": null,
+    "local_video_path": null,
+    "original_url": null,
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "deleted",
+    "raw_banned_by": null,
+    "raw_author_is_none": true,
+    "raw_selftext_value": "[deleted]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-23T11:19:32.582335",
+    "hours_tracked": 0.1521171275774638
+  },
+  {
+    "id": "1ktqcyf",
+    "title": "E-ink, Hardware and Ruby... this is TRMNL",
+    "text": "Programming beginners sometimes get stuck because they want to build great things, without dominating the basics. Experienced programmers, on the other hand, sometimes get bored because they are not having as much fun as they used to, and start looking for small projects. Well Im here to present to you TRMNL. A Ruby-powered e-ink dashboard weve been working on. Rails plugins hardware the fun side of Ruby Full disclaimer: I work at TRMNL. We are a small team, but I think we built something cool. TRMNL is mostly open-source and runs Ruby under the hood. Being open-source, we pledged to keep the project alive, even if we go bankrupt as a company. You wont be left with a useless device you bought: https://usetrmnl.com/blog/the-unbrickable-pledgehttps://usetrmnl.com/blog/the-unbrickable-pledge I think TRMNL shows Ruby used in a new way. But you dont need to be a Rubyist to have fun with it more on this below. At its core, TRMNL is a distraction-free desk device that displays your calendar, reminders, notes, etchttps://usetrmnl.com/integrations/. Heres how we use Ruby: Backend: We use Rails to power the devices setup page web app. Plugins: You can write plugins in Ruby or any language to fetch, format, and display dataGitHub alerts, Home Assistant stats, or a countdown to your next deploy. Plugin format: Just HTML, CSS, JS, and a JSON payload. If you can build a static web page, you can build a plugin. For more context, heres a video of someone building one using Node.Jshttp://node.js If youre new to coding, TRMNL is a friendly way to write real-world code that runs on a real device. If youre more experienced, its a chance to build neat tools for any user, using any language you prefer. Check these examples: https://usetrmnl.com/recipeshttps://usetrmnl.com/recipes If youre learning to code and want to tinker with something, or youve been around the block and miss the fun side of programming, this could be a nice little playground. Heres our open-source server client, also in Ruby Hanami: https://github.com/usetrmnl/byos_hanamihttps://github.com/usetrmnl/byos_hanami We also have an OSS server client in Ruby Sinatra, but the one linked above is much better Happy to answer any questions about how it works or where were heading with it. The objective of the post was to let you guys know that TRMNL exists, and since our Discord community is full of people having fun, I thought it would be interesting to you. Since you read this far, here is a discount link 10 in case you are keen to check it out: https://usetrmnl.com/go/pullrequesthttps://usetrmnl.com/go/pullrequest discount valid until June 1st. Overnout.",
+    "urls": {
+      "content": [
+        "https://usetrmnl.com/blog/the-unbrickable-pledge](https://usetrmnl.com/blog/the-unbrickable-pledge)",
+        "https://usetrmnl.com/integrations/).",
+        "http://node.js)",
+        "https://usetrmnl.com/recipes](https://usetrmnl.com/recipes)",
+        "https://github.com/usetrmnl/byos\\_hanami](https://github.com/usetrmnl/byos_hanami)",
+        "https://usetrmnl.com/go/pullrequest](https://usetrmnl.com/go/pullrequest)"
+      ],
+      "title": [],
+      "total": 6
+    },
+    "permalink": "https://reddit.com/r/programming/comments/1ktqcyf/eink_hardware_and_ruby_this_is_trmnl/",
+    "author": "nunosancha",
+    "created_utc": 1748023669.0,
+    "subreddit": "programming",
+    "score": 1,
+    "num_comments": 0,
+    "timestamp_collected": "2025-05-23T11:08:08.346063",
+    "comments": [],
+    "post_length": 2766,
+    "title_length": 41,
+    "is_self": false,
+    "is_video": false,
+    "over_18": false,
+    "spoiler": false,
+    "locked": false,
+    "contest_mode": false,
+    "num_reports": null,
+    "upvote_ratio": 1.0,
+    "total_awards_received": 0,
+    "subreddit_rules": [
+      {
+        "short_name": "/r/programming is not a support forum",
+        "description": "/r/programming is not a support forum. If you have a question, check out /r/learnprogramming, /r/cscareerquestions, or [Stack Overflow](https://stackoverflow.com/).",
+        "kind": "link",
+        "priority": 0,
+        "violation_reason": "/r/programming is not a support forum"
+      },
+      {
+        "short_name": "Keep submissions on topic and of high quality",
+        "description": "Submissions should be directly related to programming.  Just because it has a computer in it doesn't make it programming.\n\nSubmissions containing no real content that are simply farming for e-mail addresses will be removed as spam.\n\nDirect links to app demos (unrelated to programming) will be removed.  Please link to a blog post/post-mortem about the development process instead.",
+        "kind": "link",
+        "priority": 1,
+        "violation_reason": "Not programming"
+      },
+      {
+        "short_name": "No surveys",
+        "description": "Surveys/polls are typically obnoxious.  Pretty much any survey, academic or otherwise, will be removed by the mod team.  Check out /r/samplesize as an alternative place to submit surveys.\n\nExceptions are made for high quality surveys hosted by established members of the software development community (really just the annual SO Developer Survey).",
+        "kind": "link",
+        "priority": 2,
+        "violation_reason": "No surveys"
+      },
+      {
+        "short_name": "No résumés/job listings",
+        "description": "/r/programming is not a jobs board.  Please visit /r/forhire or /r/jobbit for submitting résumés or open positions.\n\nSubmissions on the topic of hiring programmers or getting hired as a programmer are generally acceptable, as long as they are not a résumés or an ad for an open position in disguise.",
+        "kind": "link",
+        "priority": 3,
+        "violation_reason": "No résumés/job listings"
+      },
+      {
+        "short_name": "Project and product demos, spam",
+        "description": "Reddit may have relaxed its position on self-promotion, but /r/programming has not:\n\n* If a majority of your contributions to reddit constitute self-promotion, you will be banned\n* If you immediately start submitting promotional material with a fresh account, you will be banned\n* The mods of /r/programming all have day jobs, we do not waste time handing out warnings\n\nIf you wish to use reddit as a promotional tool, [please do so legitimately](https://about.reddit.com/advertise/).",
+        "kind": "link",
+        "priority": 4,
+        "violation_reason": "Spam"
+      },
+      {
+        "short_name": "\"Will AI replace programmers?\"",
+        "description": "If the topic if your article is \"will AI replace programmers\", it *must* be accompanied by a submission statement about how it is different from the 30 other identical articles posted in the last 8 seconds. It must state specifically what it addresses that these other articles haven't addressed and what makes it unique. Hint: it's probably not!",
+        "kind": "all",
+        "priority": 5,
+        "violation_reason": "\"Will AI replace programmers?\""
+      }
+    ],
+    "media_type": "link",
+    "image_urls": [],
+    "local_image_paths": [],
+    "video_url": null,
+    "local_video_path": null,
+    "original_url": "https://usetrmnl.com/",
+    "is_removed": true,
+    "removal_reason": null,
+    "removed_by": null,
+    "raw_removed_by_category": "moderator",
+    "raw_banned_by": null,
+    "raw_author_is_none": false,
+    "raw_selftext_value": "[removed]",
+    "approved_by": "None",
+    "approved_at_utc": null,
+    "timestamp_checked": "2025-05-23T11:19:42.634113",
+    "hours_tracked": 0.13926638437641992
+  }
+]

@@ -1,0 +1,68 @@
+{
+  "total_posts": 13,
+  "removed_posts": 13,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "worldnews": 1,
+    "relationship_advice": 1,
+    "memes": 1,
+    "Advice": 3,
+    "AskReddit": 6,
+    "science": 1
+  },
+  "media_type_distribution": {
+    "link": 2,
+    "text": 10,
+    "image": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 27,
+      "max": 159,
+      "avg": 84.15384615384616
+    },
+    "text": {
+      "min": 0,
+      "max": 1409,
+      "avg": 340.84615384615387
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 1,
+      "max": 2,
+      "avg": 1.0769230769230769
+    },
+    "comments": {
+      "min": 0,
+      "max": 1,
+      "avg": 0.15384615384615385
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "worldnews": 1,
+      "relationship_advice": 1,
+      "memes": 1,
+      "Advice": 3,
+      "AskReddit": 6,
+      "science": 1
+    },
+    "by_media_type": {
+      "link": 2,
+      "text": 10,
+      "image": 1
+    },
+    "by_url_count": {
+      "0": 13
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 0,
+    "total_urls": 0,
+    "urls_in_removed_posts": 0,
+    "url_domains": {}
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "total_posts": 1129,
+  "removed_posts": 307,
+  "removal_rate": 27.192205491585476,
+  "subreddit_distribution": {
+    "pics": 23,
+    "legaladvice": 71,
+    "AskReddit": 574,
+    "Advice": 185,
+    "relationship_advice": 70,
+    "technology": 18,
+    "memes": 32,
+    "politics": 45,
+    "photography": 5,
+    "personalfinance": 38,
+    "funny": 15,
+    "worldnews": 17,
+    "AskHistorians": 17,
+    "programming": 6,
+    "news": 6,
+    "askscience": 4,
+    "science": 3
+  },
+  "media_type_distribution": {
+    "image": 56,
+    "text": 966,
+    "link": 95,
+    "video": 5,
+    "gallery": 7
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 6,
+      "max": 293,
+      "avg": 63.88219663418955
+    },
+    "text": {
+      "min": 0,
+      "max": 16482,
+      "avg": 501.65456155890166
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.0008857395925599
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.1550044286979628
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "Advice": 49,
+      "legaladvice": 18,
+      "relationship_advice": 19,
+      "AskReddit": 163,
+      "worldnews": 9,
+      "photography": 2,
+      "memes": 8,
+      "personalfinance": 11,
+      "technology": 2,
+      "programming": 2,
+      "AskHistorians": 6,
+      "politics": 6,
+      "funny": 5,
+      "pics": 5,
+      "science": 1,
+      "news": 1
+    },
+    "by_media_type": {
+      "text": 267,
+      "link": 21,
+      "image": 16,
+      "gallery": 1,
+      "video": 2
+    },
+    "by_url_count": {
+      "0": 305,
+      "1": 2
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 10,
+    "total_urls": 14,
+    "urls_in_removed_posts": 2,
+    "url_domains": {
+      "app.leg.wa.gov": 1,
+      "apnews.com": 1,
+      "www.reddit.com": 2,
+      "old.reddit.com": 1,
+      "www.dir.ca.gov": 1,
+      "www.bbc.co.uk": 1,
+      "preview.redd.it": 1,
+      "github.com": 2,
+      "pypi.org": 1,
+      "ernestofgonzalez.github.io": 1,
+      "youtu.be": 1,
+      "en.wikipedia.org": 1
+    }
+  }
+}

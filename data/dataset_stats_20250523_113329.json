@@ -1,0 +1,60 @@
+{
+  "total_posts": 10,
+  "removed_posts": 10,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "AskReddit": 8,
+    "Advice": 1,
+    "worldnews": 1
+  },
+  "media_type_distribution": {
+    "text": 9,
+    "link": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 13,
+      "max": 76,
+      "avg": 47.6
+    },
+    "text": {
+      "min": 0,
+      "max": 370,
+      "avg": 37.0
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 1,
+      "max": 2,
+      "avg": 1.1
+    },
+    "comments": {
+      "min": 0,
+      "max": 0,
+      "avg": 0.0
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 8,
+      "Advice": 1,
+      "worldnews": 1
+    },
+    "by_media_type": {
+      "text": 9,
+      "link": 1
+    },
+    "by_url_count": {
+      "0": 10
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 0,
+    "total_urls": 0,
+    "urls_in_removed_posts": 0,
+    "url_domains": {}
+  }
+}

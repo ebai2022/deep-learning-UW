@@ -9,6 +9,10 @@ import logging
 from prawcore.exceptions import PrawcoreException
 import re
 from collections import defaultdict
+import requests
+from urllib.parse import urlparse
+import hashlib
+import yt_dlp  # For downloading videos
 
 class RedditScraper:
     def __init__(self, client_id: str, client_secret: str, user_agent: str, debug: bool = False):
@@ -22,8 +26,15 @@ class RedditScraper:
         self.collected_posts = set()
         self.post_id_to_content = {}
         self.post_tracking_start = {}  # Track when we started monitoring each post
-        self.tracking_duration = 24 * 60 * 60  # Track posts for 24 hours
+        self.tracking_duration = 24 * 60 * 60 # Track posts for 24 hours
         self.debug = debug
+        
+        # Create directories for storing media
+        self.base_media_dir = 'data/media'
+        self.image_dir = os.path.join(self.base_media_dir, 'images')
+        self.video_dir = os.path.join(self.base_media_dir, 'videos')
+        os.makedirs(self.image_dir, exist_ok=True)
+        os.makedirs(self.video_dir, exist_ok=True)
         
         # Setup logging
         logging.basicConfig(
@@ -84,11 +95,78 @@ class RedditScraper:
             self.logger.error(f"Error fetching rules for subreddit {subreddit.display_name}: {e}")
             return []
 
+    def _download_media(self, url: str, post_id: str, subreddit: str, media_type: str) -> str:
+        """Download media (image or video) and return its local path"""
+        try:
+            # Create subreddit-specific directory
+            subreddit_dir = os.path.join(self.base_media_dir, media_type, subreddit)
+            os.makedirs(subreddit_dir, exist_ok=True)
+            
+            # Generate a unique filename using post_id and URL hash
+            url_hash = hashlib.md5(url.encode()).hexdigest()[:8]
+            filename = f"{post_id}_{url_hash}"
+            
+            if media_type == 'videos':
+                # Handle video downloads
+                if 'v.redd.it' in url:
+                    # Reddit video
+                    ydl_opts = {
+                        'format': 'best',
+                        'outtmpl': os.path.join(subreddit_dir, f"{filename}.mp4"),
+                        'quiet': True,
+                        'no_warnings': True
+                    }
+                    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                        ydl.download([url])
+                    return os.path.join(subreddit_dir, f"{filename}.mp4")
+                else:
+                    # Other video platforms
+                    ydl_opts = {
+                        'format': 'best',
+                        'outtmpl': os.path.join(subreddit_dir, f"{filename}.mp4"),
+                        'quiet': True,
+                        'no_warnings': True
+                    }
+                    with yt_dlp.YoutubeDL(ydl_opts) as ydl:
+                        ydl.download([url])
+                    return os.path.join(subreddit_dir, f"{filename}.mp4")
+            else:
+                # Handle image downloads
+                parsed_url = urlparse(url)
+                path = parsed_url.path
+                ext = os.path.splitext(path)[1]
+                if not ext:
+                    ext = '.jpg'  # Default to jpg if no extension found
+                
+                local_path = os.path.join(subreddit_dir, f"{filename}{ext}")
+                
+                # Skip if already downloaded
+                if os.path.exists(local_path):
+                    return local_path
+                
+                # Download the image
+                response = requests.get(url, stream=True)
+                response.raise_for_status()
+                
+                # Save the image
+                with open(local_path, 'wb') as f:
+                    for chunk in response.iter_content(chunk_size=8192):
+                        if chunk:
+                            f.write(chunk)
+                
+                return local_path
+            
+        except Exception as e:
+            self.logger.error(f"Error downloading {media_type} {url}: {e}")
+            return None
+
     def _get_media_info(self, post: praw.models.Submission) -> Dict[str, Any]:
-        """Get comprehensive media information from a post"""
+        """Get comprehensive media information from a post and download media"""
         media_type = "text"
         image_urls = []
+        local_image_paths = []
         video_url = None
+        local_video_path = None
 
         try:
             # Check for gallery posts
@@ -100,27 +178,46 @@ class RedditScraper:
                         item_meta = post.media_metadata[media_id]
                         if item_meta.get('e') == 'Image':
                             if item_meta.get('s', {}).get('u'):
-                                image_urls.append(item_meta['s']['u'].replace('&amp;', '&'))
+                                url = item_meta['s']['u'].replace('&amp;', '&')
+                                image_urls.append(url)
+                                local_path = self._download_media(url, post.id, post.subreddit.display_name, 'images')
+                                if local_path:
+                                    local_image_paths.append(local_path)
                             elif item_meta.get('p'):
-                                image_urls.append(item_meta['p'][-1]['u'].replace('&amp;', '&'))
+                                url = item_meta['p'][-1]['u'].replace('&amp;', '&')
+                                image_urls.append(url)
+                                local_path = self._download_media(url, post.id, post.subreddit.display_name, 'images')
+                                if local_path:
+                                    local_image_paths.append(local_path)
             # Check for regular media posts
             elif not post.is_self and post.url:
                 if post.url.endswith(('.jpg', '.jpeg', '.png', '.gif')):
                     media_type = "image"
                     image_urls.append(post.url)
+                    local_path = self._download_media(post.url, post.id, post.subreddit.display_name, 'images')
+                    if local_path:
+                        local_image_paths.append(local_path)
                 elif 'imgur.com' in post.url or 'redd.it' in post.url and not getattr(post, 'is_video', False):
                     media_type = "image"
                     image_urls.append(post.url)
+                    local_path = self._download_media(post.url, post.id, post.subreddit.display_name, 'images')
+                    if local_path:
+                        local_image_paths.append(local_path)
                 elif 'youtube.com' in post.url or 'youtu.be' in post.url or getattr(post, 'is_video', False):
                     media_type = "video"
                     video_url = post.url
+                    local_path = self._download_media(post.url, post.id, post.subreddit.display_name, 'videos')
+                    if local_path:
+                        local_video_path = local_path
                 else:
                     media_type = "link"
 
             return {
                 'media_type': media_type,
                 'image_urls': image_urls,
+                'local_image_paths': local_image_paths,
                 'video_url': video_url,
+                'local_video_path': local_video_path,
                 'original_url': post.url if not post.is_self else None
             }
         except Exception as e:
@@ -128,7 +225,9 @@ class RedditScraper:
             return {
                 'media_type': "text",
                 'image_urls': [],
+                'local_image_paths': [],
                 'video_url': None,
+                'local_video_path': None,
                 'original_url': post.url if not post.is_self else None
             }
 
@@ -457,6 +556,11 @@ def main():
     scraper.add_subreddit('technology')
     scraper.add_subreddit('Pyongyang')
     scraper.add_subreddit('askscience')
+    scraper.add_subreddit('photography')
+    scraper.add_subreddit('pics')
+    scraper.add_subreddit('funny')
+    scraper.add_subreddit('memes')
+
 
     # Start real-time capture in a thread
     Thread(target=scraper.stream_posts, daemon=True).start()

@@ -1,0 +1,86 @@
+{
+  "total_posts": 99,
+  "removed_posts": 99,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "AskReddit": 42,
+    "relationship_advice": 8,
+    "Advice": 22,
+    "legaladvice": 1,
+    "pics": 4,
+    "personalfinance": 3,
+    "funny": 8,
+    "worldnews": 1,
+    "AskHistorians": 3,
+    "memes": 4,
+    "programming": 3
+  },
+  "media_type_distribution": {
+    "text": 79,
+    "image": 12,
+    "video": 3,
+    "link": 4,
+    "gallery": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 6,
+      "max": 166,
+      "avg": 58.96969696969697
+    },
+    "text": {
+      "min": 0,
+      "max": 9513,
+      "avg": 628.2525252525253
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 1,
+      "max": 1,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 1,
+      "avg": 0.24242424242424243
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 42,
+      "relationship_advice": 8,
+      "Advice": 22,
+      "legaladvice": 1,
+      "pics": 4,
+      "personalfinance": 3,
+      "funny": 8,
+      "worldnews": 1,
+      "AskHistorians": 3,
+      "memes": 4,
+      "programming": 3
+    },
+    "by_media_type": {
+      "text": 79,
+      "image": 12,
+      "video": 3,
+      "link": 4,
+      "gallery": 1
+    },
+    "by_url_count": {
+      "0": 98,
+      "2": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 1,
+    "total_urls": 2,
+    "urls_in_removed_posts": 2,
+    "url_domains": {
+      "linux-path.com)": 1,
+      "github.com": 1
+    }
+  }
+}

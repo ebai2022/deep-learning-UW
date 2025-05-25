@@ -1,0 +1,85 @@
+{
+  "total_posts": 215,
+  "removed_posts": 215,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "AskReddit": 100,
+    "personalfinance": 7,
+    "Advice": 38,
+    "relationship_advice": 21,
+    "legaladvice": 12,
+    "politics": 10,
+    "memes": 11,
+    "funny": 7,
+    "science": 2,
+    "worldnews": 5,
+    "news": 1,
+    "programming": 1
+  },
+  "media_type_distribution": {
+    "text": 178,
+    "link": 19,
+    "image": 12,
+    "video": 6
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 5,
+      "max": 285,
+      "avg": 65.41395348837209
+    },
+    "text": {
+      "min": 0,
+      "max": 7788,
+      "avg": 585.7441860465116
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 1,
+      "avg": 0.9953488372093023
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.19534883720930232
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskReddit": 100,
+      "personalfinance": 7,
+      "Advice": 38,
+      "relationship_advice": 21,
+      "legaladvice": 12,
+      "politics": 10,
+      "memes": 11,
+      "funny": 7,
+      "science": 2,
+      "worldnews": 5,
+      "news": 1,
+      "programming": 1
+    },
+    "by_media_type": {
+      "text": 178,
+      "link": 19,
+      "image": 12,
+      "video": 6
+    },
+    "by_url_count": {
+      "0": 214,
+      "1": 1
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 1,
+    "total_urls": 1,
+    "urls_in_removed_posts": 1,
+    "url_domains": {
+      "fr.trustpilot.com": 1
+    }
+  }
+}

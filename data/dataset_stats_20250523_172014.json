@@ -1,0 +1,84 @@
+{
+  "total_posts": 62,
+  "removed_posts": 62,
+  "removal_rate": 100.0,
+  "subreddit_distribution": {
+    "AskHistorians": 1,
+    "news": 1,
+    "Advice": 11,
+    "AskReddit": 26,
+    "relationship_advice": 8,
+    "politics": 3,
+    "legaladvice": 4,
+    "memes": 3,
+    "pics": 1,
+    "funny": 2,
+    "technology": 1,
+    "science": 1
+  },
+  "media_type_distribution": {
+    "text": 50,
+    "link": 6,
+    "image": 4,
+    "gallery": 1,
+    "video": 1
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 6,
+      "max": 291,
+      "avg": 70.03225806451613
+    },
+    "text": {
+      "min": 0,
+      "max": 7453,
+      "avg": 662.9516129032259
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.0
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.25806451612903225
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "AskHistorians": 1,
+      "news": 1,
+      "Advice": 11,
+      "AskReddit": 26,
+      "relationship_advice": 8,
+      "politics": 3,
+      "legaladvice": 4,
+      "memes": 3,
+      "pics": 1,
+      "funny": 2,
+      "technology": 1,
+      "science": 1
+    },
+    "by_media_type": {
+      "text": 50,
+      "link": 6,
+      "image": 4,
+      "gallery": 1,
+      "video": 1
+    },
+    "by_url_count": {
+      "0": 62
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 0,
+    "total_urls": 0,
+    "urls_in_removed_posts": 0,
+    "url_domains": {}
+  }
+}

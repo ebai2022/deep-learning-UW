@@ -1,0 +1,100 @@
+{
+  "total_posts": 999,
+  "removed_posts": 367,
+  "removal_rate": 36.73673673673674,
+  "subreddit_distribution": {
+    "AskReddit": 492,
+    "personalfinance": 27,
+    "worldnews": 17,
+    "Advice": 167,
+    "relationship_advice": 61,
+    "legaladvice": 64,
+    "technology": 17,
+    "pics": 19,
+    "funny": 18,
+    "science": 6,
+    "AskHistorians": 16,
+    "memes": 31,
+    "politics": 46,
+    "news": 5,
+    "programming": 6,
+    "crypto": 1,
+    "photography": 6
+  },
+  "media_type_distribution": {
+    "text": 835,
+    "link": 95,
+    "image": 49,
+    "video": 14,
+    "gallery": 6
+  },
+  "removal_reasons": {},
+  "content_length_stats": {
+    "title": {
+      "min": 0,
+      "max": 293,
+      "avg": 65.68468468468468
+    },
+    "text": {
+      "min": 0,
+      "max": 12298,
+      "avg": 503.0860860860861
+    }
+  },
+  "engagement_stats": {
+    "score": {
+      "min": 0,
+      "max": 2,
+      "avg": 1.003003003003003
+    },
+    "comments": {
+      "min": 0,
+      "max": 2,
+      "avg": 0.17117117117117117
+    }
+  },
+  "removal_stats": {
+    "by_reason": {},
+    "by_subreddit": {
+      "legaladvice": 19,
+      "AskReddit": 182,
+      "relationship_advice": 22,
+      "Advice": 77,
+      "memes": 12,
+      "AskHistorians": 4,
+      "personalfinance": 5,
+      "worldnews": 11,
+      "funny": 16,
+      "photography": 2,
+      "programming": 1,
+      "politics": 8,
+      "pics": 4,
+      "technology": 1,
+      "science": 2,
+      "news": 1
+    },
+    "by_media_type": {
+      "text": 312,
+      "image": 22,
+      "link": 23,
+      "video": 10
+    },
+    "by_url_count": {
+      "0": 365,
+      "1": 2
+    }
+  },
+  "url_stats": {
+    "posts_with_urls": 5,
+    "total_urls": 6,
+    "urls_in_removed_posts": 2,
+    "url_domains": {
+      "ttartisan.store": 1,
+      "www.ebay.com": 1,
+      "www.reddit.com": 1,
+      "www.nikonusa.com": 1,
+      "anneofcarversville.com": 1,
+      "nsda.gov.bd": 1
+    }
+  }
+}
